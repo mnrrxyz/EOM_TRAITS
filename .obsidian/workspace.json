@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Shirt/-Shirt.md",
+                "file": "Traits/Skin/Alien.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Shirt/-Shirt.md",
+                "file": "Traits/Skin/Alien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Shirt/-Shirt.md",
+                "file": "Traits/Skin/Alien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Shirt/-Shirt.md"
+                "file": "Traits/Skin/Alien.md"
               }
             }
           }
@@ -171,41 +171,41 @@
   },
   "active": "3cf9a303750e3cea",
   "lastOpenFiles": [
+    "Traits/Skin/Yellow.md",
+    "Traits/Skin/-Skin.md",
+    "Traits/Shirt/1995.md",
+    "Traits/Skin/White.md",
+    "Traits/Skin/Orange.md",
+    "Traits/Skin/Light Brown.md",
+    "Traits/Skin/Dark Brown.md",
+    "Traits/Eyes/Blue.md",
+    "Traits/Skin/Alien.md",
+    "Traits/Skin",
+    "Traits/Shirt/Almafuerte.md",
+    "Traits/Shirt/-Shirt.md",
+    "Traits/Shirt/Chilavert.md",
+    "Traits/Shirt/Bones.md",
+    "Traits/Shirt/Argentina '94.md",
+    "Traits/Shirt/Goku.md",
+    "Traits/Shirt/Goalkeeper.md",
+    "Traits/Shirt/Granaderos uniform.md",
+    "Traits/Shirt/Goycochea.md",
+    "Traits/Shirt/Robledo Puch.md",
+    "Traits/Shirt/Racer.md",
+    "Traits/Shirt/Newells.md",
+    "Traits/Shirt/Mono.md",
+    "Traits/Shirt/SIC.md",
+    "Traits/Shirt/Work shirt.md",
+    "Traits/Shirt/Winter jacket.md",
+    "Traits/Shirt/Vintage jacket.md",
     "Traits/Shirt",
-    "Traits/Overlay/Sos inimputable.md",
-    "Traits/Overlay/All the night.md",
-    "Traits/Overlay/Anda pa alla.md",
-    "Traits/Overlay/-Overlay.md",
-    "Traits/Overlay/So gentle.md",
-    "Traits/Overlay/Si quieren venir.md",
-    "Traits/Overlay/Se vos.md",
-    "Traits/Overlay/Recibira dolares.md",
-    "Traits/Overlay/Proceda.md",
-    "Traits/Overlay/No hay meme.md",
-    "Traits/Overlay/Mira que te como.md",
-    "Traits/Overlay/Me quiero ir.md",
-    "Traits/Overlay/La tenes adentro.md",
-    "Traits/Overlay/La looz.md",
-    "Traits/Overlay/Incel.md",
-    "Traits/Overlay/Este pais.md",
-    "Traits/Overlay/Estamos en la B.md",
-    "Traits/Overlay/Es solo plata.md",
-    "Traits/Overlay/Carrasco.md",
-    "Traits/Mouth/w.md",
     "Traits/Overlay",
-    "Traits/Mouth/-Mouth.md",
-    "Traits/Mouth/vv.md",
-    "Traits/Mouth/Troll.md",
-    "Traits/Mouth/Triangle.md",
-    "Traits/Mouth/Smug.md",
     "Traits/Mouth",
     "Traits/Moustache",
     "Traits/Hat",
     "Traits/Hair",
     "Traits/Face",
     "Traits/Eyewear",
-    "Traits/Eyes",
-    "Traits/Earrings",
-    "Traits/Background"
+    "Traits/Eyes"
   ]
 }

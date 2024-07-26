@@ -34,21 +34,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d7ec6cca91b619e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chori.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chori.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,35 +165,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ec6cca91b619e5",
+  "active": "e5bff696ef7dec7b",
   "lastOpenFiles": [
-    "El Matadero.md",
     "Traits/Background/-Background.md",
-    "El Bonaerense.md",
-    "Edificio Kavanagh.md",
-    "Dia.md",
-    "De La Rua y Cavallo.md",
-    "Delfin Santa Teresita.md",
-    "Cuadernos.md",
-    "Cromañon.md",
-    "Congreso 2.md",
-    "Congreso 1.md",
-    "Cola Reef.md",
-    "Chorizos.md",
-    "Chori.md",
-    "Traits/Background/A Jugar Con Hugo.md",
+    "Ullathorpe.md",
+    "Ugis.md",
+    "Triple Crimen.md",
+    "Tragedia LAPA.md",
+    "Susana.md",
+    "Subte.md",
+    "Subte B.md",
+    "Spiderman y El Tren de la Alegría.md",
+    "Show Match.md",
+    "Saqueo.md",
+    "Sacoa.md",
+    "Robo Banco Río.md",
+    "Río Tercero.md",
+    "Represión.md",
+    "René Favaloro.md",
+    "Que vengan.md",
+    "Potrero.md",
+    "Pizzeria Guerrin.md",
+    "Pizza Birra Faso 2.md",
+    "Pizza Birra Faso.md",
+    "Piquete.md",
+    "Pinar de Rocha.md",
+    "Peron.md",
+    "Parque de la Costa.md",
+    "Papelitos.md",
     "Traits/Background",
-    "Traits/Background/Cerro de los Siete Colores.md",
-    "Traits/Background/Cerdo desde un helicóptero.md",
-    "Traits/Background/Cementerio de Azul.md",
-    "Traits/Background/Caso Belsunce.md",
-    "Traits/Background/Carlos y los Rolling Stones.md",
-    "Traits/Background/Carlos y la Ferrari.md",
-    "Traits/Background/Carcel de Ushuaia.md",
-    "Traits/Background/Capilla del Monte.md",
-    "Traits/Background/Campeones.md",
-    "Traits/Background/Bunker de Macri.md",
-    "Traits/Background/Bombardero de Plaza de Mayo.md",
     "Traits/Amigo",
     "Traits/Accesories",
     "repo",

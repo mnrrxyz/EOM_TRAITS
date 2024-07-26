@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Background.md",
+                "file": "Axel.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Background.md",
+                "file": "Axel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Background.md",
+                "file": "Axel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Background.md"
+                "file": "Axel.md"
               }
             }
           }
@@ -169,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f4c9a2189114988",
+  "active": "3cf9a303750e3cea",
   "lastOpenFiles": [
-    "Argentino.md",
     "Traits/Background.md",
+    "Axel.md",
+    "Atentado a CFK.md",
+    "Argentino.md",
     "Argentina '86.md",
     "ARA San Juan.md",
     "Apocalipsis.md",
@@ -195,8 +197,6 @@
     "Traits/Amigo/Pipas.md",
     "Traits/Amigo/Pepa.md",
     "Traits/Amigo/Mila Napo.md",
-    "Traits/Amigo/Messi.md",
-    "Traits/Amigo/Meditation.md",
     "Traits/Amigo",
     "Traits/Accesories",
     "repo",

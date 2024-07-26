@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Background/A Jugar Con Hugo.md",
+                "file": "Traits/Background/-Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Background/A Jugar Con Hugo.md",
+                "file": "Traits/Background/-Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Background/A Jugar Con Hugo.md",
+                "file": "Traits/Background/-Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Background/A Jugar Con Hugo.md"
+                "file": "Traits/Background/-Background.md"
               }
             }
           }
@@ -169,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cf9a303750e3cea",
+  "active": "1f4c9a2189114988",
   "lastOpenFiles": [
+    "Traits/Background/A Jugar Con Hugo.md",
     "Traits/Background",
     "Traits/Background/Cerro de los Siete Colores.md",
-    "Traits/Background/Background.md",
+    "Traits/Background/-Background.md",
     "Traits/Background/Cerdo desde un helicóptero.md",
     "Traits/Background/Cementerio de Azul.md",
     "Traits/Background/Caso Belsunce.md",
@@ -193,7 +194,6 @@
     "Traits/Background/Alberto y Cuarentena.md",
     "Traits/Background/Accidente Junior.md",
     "Traits/Background/Accidente de Rodrigo.md",
-    "Traits/Background/A Jugar Con Hugo.md",
     "Traits/Background/Quinto Escalon.md",
     "Traits/Accesories/-Accessories.md",
     "Traits/Amigo/-Amigo.md",

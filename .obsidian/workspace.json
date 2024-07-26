@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Accesories/-Accessories.md",
+                "file": "Traits/Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Accesories/-Accessories.md",
+                "file": "Traits/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Accesories/-Accessories.md",
+                "file": "Traits/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Accesories/-Accessories.md"
+                "file": "Traits/Background.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "1f4c9a2189114988",
   "lastOpenFiles": [
+    "Traits/Accesories/-Accessories.md",
     "Traits/Amigo/-Amigo.md",
     "Traits/Amigo/Alejo y Valentina.md",
     "Traits/Amigo/World Cup.md",
@@ -196,7 +197,6 @@
     "Traits/Amigo/Juan Carlos Batman.md",
     "Traits/Amigo/Chocolate Jack.md",
     "Traits/Amigo/Iorio.md",
-    "Traits/Amigo/Hugo.md",
     "Traits/Amigo",
     "Traits/Accesories",
     "repo",

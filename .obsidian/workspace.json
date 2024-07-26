@@ -34,8 +34,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d7ec6cca91b619e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Background/-Background.md",
+                "file": "Chori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Background/-Background.md",
+                "file": "Chori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Background/-Background.md"
+                "file": "Chori.md"
               }
             }
           }
@@ -169,12 +182,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f4c9a2189114988",
+  "active": "d7ec6cca91b619e5",
   "lastOpenFiles": [
+    "El Matadero.md",
+    "Traits/Background/-Background.md",
+    "El Bonaerense.md",
+    "Edificio Kavanagh.md",
+    "Dia.md",
+    "De La Rua y Cavallo.md",
+    "Delfin Santa Teresita.md",
+    "Cuadernos.md",
+    "Cromañon.md",
+    "Congreso 2.md",
+    "Congreso 1.md",
+    "Cola Reef.md",
+    "Chorizos.md",
+    "Chori.md",
     "Traits/Background/A Jugar Con Hugo.md",
     "Traits/Background",
     "Traits/Background/Cerro de los Siete Colores.md",
-    "Traits/Background/-Background.md",
     "Traits/Background/Cerdo desde un helicóptero.md",
     "Traits/Background/Cementerio de Azul.md",
     "Traits/Background/Caso Belsunce.md",
@@ -185,18 +211,6 @@
     "Traits/Background/Campeones.md",
     "Traits/Background/Bunker de Macri.md",
     "Traits/Background/Bombardero de Plaza de Mayo.md",
-    "Traits/Background/Axel.md",
-    "Traits/Background/Atentado a CFK.md",
-    "Traits/Background/Argentino.md",
-    "Traits/Background/Argentina '86.md",
-    "Traits/Background/ARA San Juan.md",
-    "Traits/Background/Apocalipsis.md",
-    "Traits/Background/Alberto y Cuarentena.md",
-    "Traits/Background/Accidente Junior.md",
-    "Traits/Background/Accidente de Rodrigo.md",
-    "Traits/Background/Quinto Escalon.md",
-    "Traits/Accesories/-Accessories.md",
-    "Traits/Amigo/-Amigo.md",
     "Traits/Amigo",
     "Traits/Accesories",
     "repo",

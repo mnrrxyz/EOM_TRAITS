@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Accessories.md",
+                "file": "Traits/Accesories/-Accessories.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Traits/Accesories/-Accessories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Traits/Accesories/-Accessories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Traits/Accesories/-Accessories.md"
               }
             }
           }
@@ -167,25 +169,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cf9a303750e3cea",
+  "active": "1f4c9a2189114988",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Traits/Accessories.md",
+    "Traits/Amigo/-Amigo.md",
+    "Traits/Amigo/Alejo y Valentina.md",
+    "Traits/Amigo/World Cup.md",
+    "Traits/Amigo/Topo Gigio.md",
+    "Traits/Amigo/Termidor.md",
+    "Traits/Amigo/Tamagochi.md",
+    "Traits/Amigo/Sonrisas.md",
+    "Traits/Amigo/Scorpion.md",
+    "Traits/Amigo/Rueditas.md",
+    "Traits/Amigo/Game Disease Rat.md",
+    "Traits/Amigo/Pipas.md",
+    "Traits/Amigo/Pepa.md",
+    "Traits/Amigo/Mila Napo.md",
+    "Traits/Amigo/Messi.md",
+    "Traits/Amigo/Meditation.md",
+    "Traits/Amigo/Medallita.md",
+    "Traits/Amigo/Maslaton.md",
+    "Traits/Amigo/Mar del Plata.md",
+    "Traits/Amigo/Maradona.md",
+    "Traits/Amigo/Manaos.md",
+    "Traits/Amigo/Malvinas.md",
+    "Traits/Amigo/Little man.md",
+    "Traits/Amigo/Juan Carlos Batman.md",
+    "Traits/Amigo/Chocolate Jack.md",
+    "Traits/Amigo/Iorio.md",
+    "Traits/Amigo/Hugo.md",
+    "Traits/Amigo",
+    "Traits/Accesories",
     "repo",
-    "Traits/Amigo.md",
-    "Traits/Background.md",
-    "Traits/Skin.md",
-    "Traits/Shirt.md",
-    "Traits/Overlay.md",
-    "Traits/Mouth.md",
-    "Traits/Moustache.md",
-    "Traits/Hat.md",
-    "Traits/Hair.md",
-    "Traits/Face.md",
-    "Traits/Eyewear.md",
-    "Traits/Eyes.md",
-    "Traits/Earrings.md",
-    "Welcome.md",
     "Traits"
   ]
 }

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Background.md",
+                "file": "Traits/Background/A Jugar Con Hugo.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Background.md",
+                "file": "Traits/Background/A Jugar Con Hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Background.md",
+                "file": "Traits/Background/A Jugar Con Hugo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Background.md"
+                "file": "Traits/Background/A Jugar Con Hugo.md"
               }
             }
           }
@@ -169,34 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f4c9a2189114988",
+  "active": "3cf9a303750e3cea",
   "lastOpenFiles": [
-    "Capilla del Monte.md",
-    "Traits/Background.md",
-    "Campeones.md",
-    "Bunker de Macri.md",
-    "Bombardero de Plaza de Mayo.md",
-    "Axel.md",
-    "Atentado a CFK.md",
-    "Argentino.md",
-    "Argentina '86.md",
-    "ARA San Juan.md",
-    "Apocalipsis.md",
-    "Alberto y Cuarentena.md",
-    "Accidente Junior.md",
-    "Accidente de Rodrigo.md",
-    "A Jugar Con Hugo.md",
-    "Quinto Escalon.md",
+    "Traits/Background",
+    "Traits/Background/Cerro de los Siete Colores.md",
+    "Traits/Background/Background.md",
+    "Traits/Background/Cerdo desde un helicóptero.md",
+    "Traits/Background/Cementerio de Azul.md",
+    "Traits/Background/Caso Belsunce.md",
+    "Traits/Background/Carlos y los Rolling Stones.md",
+    "Traits/Background/Carlos y la Ferrari.md",
+    "Traits/Background/Carcel de Ushuaia.md",
+    "Traits/Background/Capilla del Monte.md",
+    "Traits/Background/Campeones.md",
+    "Traits/Background/Bunker de Macri.md",
+    "Traits/Background/Bombardero de Plaza de Mayo.md",
+    "Traits/Background/Axel.md",
+    "Traits/Background/Atentado a CFK.md",
+    "Traits/Background/Argentino.md",
+    "Traits/Background/Argentina '86.md",
+    "Traits/Background/ARA San Juan.md",
+    "Traits/Background/Apocalipsis.md",
+    "Traits/Background/Alberto y Cuarentena.md",
+    "Traits/Background/Accidente Junior.md",
+    "Traits/Background/Accidente de Rodrigo.md",
+    "Traits/Background/A Jugar Con Hugo.md",
+    "Traits/Background/Quinto Escalon.md",
     "Traits/Accesories/-Accessories.md",
     "Traits/Amigo/-Amigo.md",
-    "Traits/Amigo/Alejo y Valentina.md",
-    "Traits/Amigo/World Cup.md",
-    "Traits/Amigo/Topo Gigio.md",
-    "Traits/Amigo/Termidor.md",
-    "Traits/Amigo/Tamagochi.md",
-    "Traits/Amigo/Sonrisas.md",
-    "Traits/Amigo/Scorpion.md",
-    "Traits/Amigo/Rueditas.md",
     "Traits/Amigo",
     "Traits/Accesories",
     "repo",

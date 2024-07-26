@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Background/-Background.md",
+                "file": "Traits/Background/Intrusos.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Traits/Background/Intrusos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Traits/Background/Intrusos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Traits/Background/Intrusos.md"
+              }
             }
           }
         ]
@@ -165,34 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5bff696ef7dec7b",
+  "active": "3cf9a303750e3cea",
   "lastOpenFiles": [
+    "Traits/Background/Zulma en Cronica.md",
     "Traits/Background/-Background.md",
-    "Ullathorpe.md",
-    "Ugis.md",
-    "Triple Crimen.md",
-    "Tragedia LAPA.md",
-    "Susana.md",
-    "Subte.md",
-    "Subte B.md",
-    "Spiderman y El Tren de la Alegría.md",
-    "Show Match.md",
-    "Saqueo.md",
-    "Sacoa.md",
-    "Robo Banco Río.md",
-    "Río Tercero.md",
-    "Represión.md",
-    "René Favaloro.md",
-    "Que vengan.md",
-    "Potrero.md",
-    "Pizzeria Guerrin.md",
-    "Pizza Birra Faso 2.md",
-    "Pizza Birra Faso.md",
-    "Piquete.md",
-    "Pinar de Rocha.md",
-    "Peron.md",
-    "Parque de la Costa.md",
-    "Papelitos.md",
+    "Traits/Background/YPF.md",
+    "Traits/Background/Yate Bandido.md",
+    "Traits/Background/Vuelos Espaciales.md",
+    "Traits/Background/Ullathorpe.md",
+    "Traits/Background/Ugis.md",
+    "Traits/Background/Triple Crimen.md",
+    "Traits/Background/Tragedia LAPA.md",
+    "Traits/Background/Susana.md",
+    "Traits/Background/Subte.md",
+    "Traits/Background/Subte B.md",
+    "Traits/Background/Spiderman y El Tren de la Alegría.md",
+    "Traits/Background/Show Match.md",
+    "Traits/Background/Saqueo.md",
+    "Traits/Background/Sacoa.md",
+    "Traits/Background/Robo Banco Río.md",
+    "Traits/Background/Río Tercero.md",
+    "Traits/Background/Represión.md",
+    "Traits/Background/René Favaloro.md",
+    "Traits/Background/Que vengan.md",
+    "Traits/Background/Potrero.md",
+    "Traits/Background/Pizzeria Guerrin.md",
+    "Traits/Background/Pizza Birra Faso 2.md",
+    "Traits/Background/Pizza Birra Faso.md",
+    "Traits/Background/Piquete.md",
     "Traits/Background",
     "Traits/Amigo",
     "Traits/Accesories",

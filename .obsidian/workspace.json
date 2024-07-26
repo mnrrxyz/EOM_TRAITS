@@ -19,21 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ef897573524aff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6674dee97406afea",
@@ -122,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ef897573524aff8",
+  "active": "3cf9a303750e3cea",
   "lastOpenFiles": [
     "Untitled.md",
     "Traits/Accessories.md",

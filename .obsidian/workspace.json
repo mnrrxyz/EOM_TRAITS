@@ -6,6 +6,7 @@
       {
         "id": "a68339a6d3016551",
         "type": "tabs",
+        "dimension": 29.82832618025751,
         "children": [
           {
             "id": "1f4c9a2189114988",
@@ -24,6 +25,7 @@
       {
         "id": "6674dee97406afea",
         "type": "tabs",
+        "dimension": 70.17167381974248,
         "children": [
           {
             "id": "e5bff696ef7dec7b",
@@ -94,6 +96,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "722c711efa3e1e5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "4eee9248fef927d5",
             "type": "leaf",
             "state": {
@@ -147,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

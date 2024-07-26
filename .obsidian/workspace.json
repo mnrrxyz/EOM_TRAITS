@@ -6,15 +6,15 @@
       {
         "id": "a68339a6d3016551",
         "type": "tabs",
-        "dimension": 29.82832618025751,
+        "dimension": 44.9928469241774,
         "children": [
           {
-            "id": "1f4c9a2189114988",
+            "id": "0db085d73d1f948e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Background/Intrusos.md",
+                "file": "Traits/Shirt/-Shirt.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "6674dee97406afea",
         "type": "tabs",
-        "dimension": 70.17167381974248,
+        "dimension": 55.0071530758226,
         "children": [
           {
             "id": "e5bff696ef7dec7b",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Background/Intrusos.md",
+                "file": "Traits/Shirt/-Shirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Background/Intrusos.md",
+                "file": "Traits/Shirt/-Shirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Background/Intrusos.md"
+                "file": "Traits/Shirt/-Shirt.md"
               }
             }
           }
@@ -171,36 +171,41 @@
   },
   "active": "3cf9a303750e3cea",
   "lastOpenFiles": [
-    "Traits/Background/Zulma en Cronica.md",
-    "Traits/Background/-Background.md",
-    "Traits/Background/YPF.md",
-    "Traits/Background/Yate Bandido.md",
-    "Traits/Background/Vuelos Espaciales.md",
-    "Traits/Background/Ullathorpe.md",
-    "Traits/Background/Ugis.md",
-    "Traits/Background/Triple Crimen.md",
-    "Traits/Background/Tragedia LAPA.md",
-    "Traits/Background/Susana.md",
-    "Traits/Background/Subte.md",
-    "Traits/Background/Subte B.md",
-    "Traits/Background/Spiderman y El Tren de la Alegría.md",
-    "Traits/Background/Show Match.md",
-    "Traits/Background/Saqueo.md",
-    "Traits/Background/Sacoa.md",
-    "Traits/Background/Robo Banco Río.md",
-    "Traits/Background/Río Tercero.md",
-    "Traits/Background/Represión.md",
-    "Traits/Background/René Favaloro.md",
-    "Traits/Background/Que vengan.md",
-    "Traits/Background/Potrero.md",
-    "Traits/Background/Pizzeria Guerrin.md",
-    "Traits/Background/Pizza Birra Faso 2.md",
-    "Traits/Background/Pizza Birra Faso.md",
-    "Traits/Background/Piquete.md",
-    "Traits/Background",
-    "Traits/Amigo",
-    "Traits/Accesories",
-    "repo",
-    "Traits"
+    "Traits/Shirt",
+    "Traits/Overlay/Sos inimputable.md",
+    "Traits/Overlay/All the night.md",
+    "Traits/Overlay/Anda pa alla.md",
+    "Traits/Overlay/-Overlay.md",
+    "Traits/Overlay/So gentle.md",
+    "Traits/Overlay/Si quieren venir.md",
+    "Traits/Overlay/Se vos.md",
+    "Traits/Overlay/Recibira dolares.md",
+    "Traits/Overlay/Proceda.md",
+    "Traits/Overlay/No hay meme.md",
+    "Traits/Overlay/Mira que te como.md",
+    "Traits/Overlay/Me quiero ir.md",
+    "Traits/Overlay/La tenes adentro.md",
+    "Traits/Overlay/La looz.md",
+    "Traits/Overlay/Incel.md",
+    "Traits/Overlay/Este pais.md",
+    "Traits/Overlay/Estamos en la B.md",
+    "Traits/Overlay/Es solo plata.md",
+    "Traits/Overlay/Carrasco.md",
+    "Traits/Mouth/w.md",
+    "Traits/Overlay",
+    "Traits/Mouth/-Mouth.md",
+    "Traits/Mouth/vv.md",
+    "Traits/Mouth/Troll.md",
+    "Traits/Mouth/Triangle.md",
+    "Traits/Mouth/Smug.md",
+    "Traits/Mouth",
+    "Traits/Moustache",
+    "Traits/Hat",
+    "Traits/Hair",
+    "Traits/Face",
+    "Traits/Eyewear",
+    "Traits/Eyes",
+    "Traits/Earrings",
+    "Traits/Background"
   ]
 }

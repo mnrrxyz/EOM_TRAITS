@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Background/Accidente de Rodrigo.md",
+                "file": "Personajes/Alberto Fernandez.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Background/Accidente de Rodrigo.md",
+                "file": "Personajes/Alberto Fernandez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Background/Accidente de Rodrigo.md",
+                "file": "Personajes/Alberto Fernandez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Background/Accidente de Rodrigo.md"
+                "file": "Personajes/Alberto Fernandez.md"
               }
             }
           }
@@ -169,13 +169,24 @@
   },
   "active": "8654e6fd604fd6cd",
   "lastOpenFiles": [
-    "Pasted image 20240728173701.png",
-    "Pasted image 20240728173651.png",
-    "Pasted image 20240728173501.png",
-    "Pasted image 20240728173452.png",
+    "Traits/Background/Alberto.ppt.md",
+    "Personajes/Alberto Fernandez.md",
+    "Imgs/Pasted image 20240728173114.png",
+    "Personajes",
+    "Untitled.md",
+    "Imgs",
+    "Imgs/Pasted image 20240728201358.png",
+    "Imgs/Pasted image 20240728201321.png",
+    "Imgs/Screenshot 2024-07-28 at 20.12.51.png",
+    "Imgs/Pasted image 20240728201221.png",
+    "Imgs/Pasted image 20240728201208.png",
+    "Imgs/Pasted image 20240728201153.png",
+    "Imgs/Pasted image 20240728201141.png",
+    "Imgs/Pasted image 20240728201131.png",
+    "Traits/Background/Accidente Junior.md",
+    "Traits/Background/Accidente de Rodrigo.md",
+    "Imgs/Pasted image 20240728173701.png",
     "Traits/Background/A Jugar Con Hugo.md",
-    "Pasted image 20240728173136.png",
-    "Pasted image 20240728173114.png",
     "Traits/Accesories/AWP.md",
     "Traits/Accesories/AWP.md",
     "Traits/Earrings/LGBT_star.md",
@@ -196,10 +207,6 @@
     "Traits/Overlay/-Overlay.md",
     "Traits/Mouth/-Mouth.md",
     "Traits/Moustache/-Moustache.md",
-    "Traits/Hat/-Hat.md",
-    "Traits/Hair/-Hair.md",
-    "Traits/Face/-Face.md",
-    "Traits/Eyewear/-Eyewear.md",
     "Traits/Skin",
     "Traits/Shirt",
     "Traits/Overlay",
@@ -207,8 +214,6 @@
     "Traits/Moustache",
     "Traits/Hat",
     "Traits/Hair",
-    "Traits/Face",
-    "Traits/Eyewear",
-    "Traits/Eyes"
+    "Traits/Face"
   ]
 }

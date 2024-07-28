@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Skin/Alien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Skin/Alien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Traits/Skin/Alien.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cf9a303750e3cea",
+  "active": "e5bff696ef7dec7b",
   "lastOpenFiles": [
+    "Traits/Skin/Alien.md",
+    "Traits/Accesories/-Accessories.md",
     "Traits/Skin/Yellow.md",
     "Traits/Skin/-Skin.md",
     "Traits/Shirt/1995.md",
@@ -179,7 +177,6 @@
     "Traits/Skin/Light Brown.md",
     "Traits/Skin/Dark Brown.md",
     "Traits/Eyes/Blue.md",
-    "Traits/Skin/Alien.md",
     "Traits/Skin",
     "Traits/Shirt/Almafuerte.md",
     "Traits/Shirt/-Shirt.md",
@@ -197,7 +194,6 @@
     "Traits/Shirt/SIC.md",
     "Traits/Shirt/Work shirt.md",
     "Traits/Shirt/Winter jacket.md",
-    "Traits/Shirt/Vintage jacket.md",
     "Traits/Shirt",
     "Traits/Overlay",
     "Traits/Mouth",

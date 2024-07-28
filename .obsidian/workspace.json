@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personajes/Alberto Fernandez.md",
+                "file": "Traits/Background/Accidente Menem Jr..md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personajes/Alberto Fernandez.md",
+                "file": "Traits/Background/Accidente Menem Jr..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personajes/Alberto Fernandez.md",
+                "file": "Traits/Background/Accidente Menem Jr..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personajes/Alberto Fernandez.md"
+                "file": "Traits/Background/Accidente Menem Jr..md"
               }
             }
           }
@@ -169,8 +169,17 @@
   },
   "active": "8654e6fd604fd6cd",
   "lastOpenFiles": [
-    "Traits/Background/Alberto.ppt.md",
+    "Traits/Background/ARA San Juan.md",
+    "Pasted image 20240728203409.png",
+    "Pasted image 20240728203402.png",
+    "Pasted image 20240728203341.png",
+    "Pasted image 20240728203321.png",
+    "Traits/Background/Accidente Menem Jr..md",
+    "Traits/Background/Nisman 1 y 2.md",
+    "Traits/Background/Nisman 2.md",
+    "Traits/Background/Apocalipsis.md",
     "Personajes/Alberto Fernandez.md",
+    "Traits/Background/Alberto.ppt.md",
     "Imgs/Pasted image 20240728173114.png",
     "Personajes",
     "Untitled.md",
@@ -180,12 +189,7 @@
     "Imgs/Screenshot 2024-07-28 at 20.12.51.png",
     "Imgs/Pasted image 20240728201221.png",
     "Imgs/Pasted image 20240728201208.png",
-    "Imgs/Pasted image 20240728201153.png",
-    "Imgs/Pasted image 20240728201141.png",
-    "Imgs/Pasted image 20240728201131.png",
-    "Traits/Background/Accidente Junior.md",
     "Traits/Background/Accidente de Rodrigo.md",
-    "Imgs/Pasted image 20240728173701.png",
     "Traits/Background/A Jugar Con Hugo.md",
     "Traits/Accesories/AWP.md",
     "Traits/Accesories/AWP.md",
@@ -202,11 +206,6 @@
     "Traits/Shirt/PFA.md",
     "Traits/Shirt/Charly.md",
     "Traits/Skin/-Skin.md",
-    "Traits/Shirt/-Shirt.md",
-    "Traits/Shirt/Argentina.md",
-    "Traits/Overlay/-Overlay.md",
-    "Traits/Mouth/-Mouth.md",
-    "Traits/Moustache/-Moustache.md",
     "Traits/Skin",
     "Traits/Shirt",
     "Traits/Overlay",

@@ -31,9 +31,129 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "149d2aa8c2cf6692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Hat/Italpark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c9e63d79db13fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Hat/YPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "393b789312a92f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Moustache/Charly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c580d953d4ec1d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Mouth/Joint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb03e08054a0815a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Shirt/2 Minutos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "697de7b82b57fd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Shirt/Argentina '24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03f44632a665269b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Shirt/Messi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9049d36646e6a431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Shirt/Parque de la Costa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a303464967d96aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Shirt/PFA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc840fd75f34a2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Shirt/Charly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       },
       {
         "id": "6674dee97406afea",
@@ -122,7 +242,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Earrings/Mate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +258,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Earrings/Mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +279,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Traits/Earrings/Mate.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,10 +298,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7ad748be5e1936",
+  "active": "e5bff696ef7dec7b",
   "lastOpenFiles": [
-    "Traits/Hair/-Hair.md",
+    "Traits/Shirt/Charly.md",
+    "Traits/Skin/-Skin.md",
+    "Traits/Shirt/PFA.md",
+    "Traits/Shirt/Parque de la Costa.md",
+    "Traits/Shirt/Messi.md",
+    "Traits/Shirt/Argentina '24.md",
+    "Traits/Shirt/2 Minutos.md",
+    "Traits/Mouth/Joint.md",
+    "Traits/Shirt/-Shirt.md",
+    "Traits/Shirt/Argentina.md",
+    "Traits/Overlay/-Overlay.md",
+    "Traits/Moustache/Charly.md",
+    "Traits/Mouth/-Mouth.md",
+    "Traits/Hat/YPF.md",
+    "Traits/Moustache/-Moustache.md",
+    "Traits/Hat/Italpark.md",
     "Traits/Earrings/Mate.md",
+    "Traits/Hat/-Hat.md",
+    "Traits/Hair/-Hair.md",
     "Traits/Face/-Face.md",
     "Traits/Eyewear/-Eyewear.md",
     "Traits/Eyes/-Eyes.md",
@@ -193,24 +326,7 @@
     "Traits/Earrings/LGBT_star.md",
     "Traits/Background/Chancho desde un helicóptero.md",
     "Traits/Background/-Background.md",
-    "Traits/Skin/Alien.md",
-    "Traits/Amigo/-Amigo.md",
-    "Traits/Accesories/-Accessories.md",
-    "Traits/Skin/Yellow.md",
-    "Traits/Skin/-Skin.md",
-    "Traits/Shirt/1995.md",
-    "Traits/Skin/White.md",
-    "Traits/Skin/Orange.md",
-    "Traits/Skin/Light Brown.md",
-    "Traits/Skin/Dark Brown.md",
-    "Traits/Eyes/Blue.md",
     "Traits/Skin",
-    "Traits/Shirt/Almafuerte.md",
-    "Traits/Shirt/-Shirt.md",
-    "Traits/Shirt/Chilavert.md",
-    "Traits/Shirt/Bones.md",
-    "Traits/Shirt/Argentina '94.md",
-    "Traits/Shirt/Goku.md",
     "Traits/Shirt",
     "Traits/Overlay",
     "Traits/Mouth",

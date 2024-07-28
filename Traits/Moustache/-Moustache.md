@@ -1,3 +1,0 @@
-[[Atiendo boludos]]
-[[Charly]]
-[[Dali]]

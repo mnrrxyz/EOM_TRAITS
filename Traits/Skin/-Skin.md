@@ -1,7 +1,0 @@
-[[Alien]]
-[[Blue]]
-[[Dark Brown]]
-[[Light Brown]]
-[[Orange]]
-[[White]]
-[[Yellow]]

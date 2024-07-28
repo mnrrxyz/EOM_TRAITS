@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Skin/Alien.md",
+                "file": "Traits/Earrings/LGBT_star.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d7ad748be5e1936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Earrings/Mate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6674dee97406afea",
@@ -109,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Traits/Earrings/Mate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Traits/Earrings/Mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Traits/Earrings/Mate.md"
+              }
             }
           }
         ]
@@ -165,9 +182,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5bff696ef7dec7b",
+  "active": "5d7ad748be5e1936",
   "lastOpenFiles": [
+    "Traits/Hair/-Hair.md",
+    "Traits/Earrings/Mate.md",
+    "Traits/Face/-Face.md",
+    "Traits/Eyewear/-Eyewear.md",
+    "Traits/Eyes/-Eyes.md",
+    "Traits/Earrings/-Earrings.md",
+    "Traits/Earrings/LGBT_star.md",
+    "Traits/Background/Chancho desde un helicóptero.md",
+    "Traits/Background/-Background.md",
     "Traits/Skin/Alien.md",
+    "Traits/Amigo/-Amigo.md",
     "Traits/Accesories/-Accessories.md",
     "Traits/Skin/Yellow.md",
     "Traits/Skin/-Skin.md",
@@ -184,16 +211,6 @@
     "Traits/Shirt/Bones.md",
     "Traits/Shirt/Argentina '94.md",
     "Traits/Shirt/Goku.md",
-    "Traits/Shirt/Goalkeeper.md",
-    "Traits/Shirt/Granaderos uniform.md",
-    "Traits/Shirt/Goycochea.md",
-    "Traits/Shirt/Robledo Puch.md",
-    "Traits/Shirt/Racer.md",
-    "Traits/Shirt/Newells.md",
-    "Traits/Shirt/Mono.md",
-    "Traits/Shirt/SIC.md",
-    "Traits/Shirt/Work shirt.md",
-    "Traits/Shirt/Winter jacket.md",
     "Traits/Shirt",
     "Traits/Overlay",
     "Traits/Mouth",

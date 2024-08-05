@@ -1,0 +1,5 @@
+El 30 de diciembre de 2004, la tragedia de Cromañón sacudió a Argentina. En un boliche de Buenos Aires, donde la banda **Callejeros** daba un recital, alguien del público encendió una bengala, prendiendo fuego al techo cubierto de material inflamable. El lugar, abarrotado de gente, se llenó de humo tóxico en segundos.
+
+El caos fue absoluto: con puertas bloqueadas y salidas de emergencia inexistentes, una estampida humana desató el infierno. Murieron 194 personas y más de 1,400 resultaron heridas. La tragedia destapó una olla de corrupción y negligencia, desde la falta de controles hasta la codicia que permitió que un lugar así funcionara.
+
+El país quedó en shock, y las protestas por justicia llenaron las calles. La tragedia de Cromañón es un símbolo del peligro de la corrupción y la irresponsabilidad, una cicatriz en la memoria de Argentina que sigue recordándose cada año, clamando por que algo así nunca vuelva a suceder.

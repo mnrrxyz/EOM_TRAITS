@@ -11,6 +11,26 @@
             "id": "8654e6fd604fd6cd",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Imgs/Pasted image 20240728203409.png"
+              }
+            }
+          },
+          {
+            "id": "35943b33b5afa6f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imgs/Pasted image 20240728203341.png"
+              }
+            }
+          },
+          {
+            "id": "b8ce0f1fdfcba669",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Traits/Amigo/Alejo y Valentina.md",
@@ -19,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,14 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8654e6fd604fd6cd",
+  "active": "b8ce0f1fdfcba669",
   "lastOpenFiles": [
-    "Traits/Background/ARA San Juan.md",
+    "Imgs/Pasted image 20240728203409.png",
+    "Imgs/Pasted image 20240728203402.png",
+    "Imgs/Pasted image 20240728203341.png",
+    "Imgs/Pasted image 20240728203321.png",
+    "Traits/Background/Accidente de Rodrigo.md",
     "Traits/Background/Accidente Menem Jr..md",
-    "Pasted image 20240728203409.png",
-    "Pasted image 20240728203402.png",
-    "Pasted image 20240728203341.png",
-    "Pasted image 20240728203321.png",
+    "Traits/Background/A Jugar Con Hugo.md",
+    "Traits/Amigo/Alejo y Valentina.md",
+    "Traits/Background/ARA San Juan.md",
     "Traits/Background/Nisman 1 y 2.md",
     "Traits/Background/Nisman 2.md",
     "Traits/Background/Apocalipsis.md",
@@ -189,8 +213,6 @@
     "Imgs/Screenshot 2024-07-28 at 20.12.51.png",
     "Imgs/Pasted image 20240728201221.png",
     "Imgs/Pasted image 20240728201208.png",
-    "Traits/Background/Accidente de Rodrigo.md",
-    "Traits/Background/A Jugar Con Hugo.md",
     "Traits/Accesories/AWP.md",
     "Traits/Accesories/AWP.md",
     "Traits/Earrings/LGBT_star.md",
@@ -205,7 +227,6 @@
     "Traits/Shirt/Parque de la Costa.md",
     "Traits/Shirt/PFA.md",
     "Traits/Shirt/Charly.md",
-    "Traits/Skin/-Skin.md",
     "Traits/Skin",
     "Traits/Shirt",
     "Traits/Overlay",

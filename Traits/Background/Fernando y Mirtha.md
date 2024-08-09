@@ -4,7 +4,7 @@ Mirtha, con su eterna elegancia, se mantiene serena aunque sorprendida, demostra
 
 Es un momento de televisión al rojo vivo, donde el drama, la comedia y la provocación se entrelazan. La mesa de Mirtha se transforma en un escenario teatral, donde los diálogos son tan afilados como cuchillos y las miradas tan intensas como reflectores.
 
+![[Sokok.png]]
 
-![[ferymirtha.jpg]]
 ### Fernando Peña apuntándole a Mirtha Legrand
 ](https://www.youtube.com/watch?v=PBHDI5VH6mI)

@@ -8,6 +8,7 @@ El 15 de noviembre de 2017, el submarino desapareció con 44 tripulantes a bordo
 
 Tras un año de búsqueda, una empresa privada encontró los restos del ARA San Juan a 907 metros de profundidad, muy cerca del punto de desaparición. Se cree que el submarino sufrió una implosión que causó la muerte de todos los tripulantes.
 
+
 info:
 https://es.wikipedia.org/wiki/ARA_San_Juan_%28S-42%29
 https://revistas.proeditio.com/jonnpr/article/view/2740/html2740

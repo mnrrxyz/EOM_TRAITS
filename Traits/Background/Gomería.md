@@ -1,0 +1,1 @@
+![[gomeria_el_gordo_cosmico_burzaco.jpg]]

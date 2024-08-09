@@ -2,6 +2,9 @@ México, 1986, un Maradona eléctrico desafía no solo a Inglaterra sino a la gr
 
 Este gol de Maradona, seguido por su asombroso slalom para marcar el "Gol del Siglo", encapsula un capítulo de pura magia futbolística. Entre trampas y triunfos, Diego nos enseña que el fútbol, como la vida, a veces juega en la frontera de la realidad.
 
-![[manod10s.jpg]]
+
+![[la_mano_de_dios.jpg]]
+
+
 
 https://www.youtube.com/shorts/vNbiYtvkpSw

@@ -6,6 +6,4 @@ El "corralito" había encerrado el efectivo de la gente en los bancos, las calle
 
 El helicóptero se eleva, la presidencia cae, y el país queda en un vértigo político que cambiaría su historia para siempre.
 
-
-
-![[helicopterojpg.webp]]
+![[helicoptero.png]]

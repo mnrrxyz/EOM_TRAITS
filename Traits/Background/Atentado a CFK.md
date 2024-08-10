@@ -5,7 +5,7 @@ Si fuese un guión de Netflix, nos pareceria ridiculo pero esto es Argentina...
 
 Las teorías conspirativas no tardaron en viralizarse: .
 
-
+![[atentadoacristina.png]]
 
 
 

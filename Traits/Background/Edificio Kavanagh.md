@@ -5,5 +5,5 @@ Este rascacielos fue financiado por Corina Kavanagh, rodeado de leyendas como su
 Carlos Maslatón, abogado y analista financiero conocido por su estilo directo, ha expresado su admiración por el Kavanagh, destacándolo como un símbolo de modernidad y audacia arquitectónica. Para Maslatón, el edificio representa la capacidad de Buenos Aires de ser pionera en diseño y tecnología, reflejando el potencial de la ciudad para seguir sorprendiendo al mundo.
 
 
-![[Edificio_Kavanagh_Buenos_Aires.jpg]]
 
+![[kavanagh.png]]

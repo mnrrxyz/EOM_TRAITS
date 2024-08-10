@@ -1,0 +1,1 @@
+![[elbonarense.png]]

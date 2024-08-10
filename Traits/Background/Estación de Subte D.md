@@ -1,0 +1,1 @@
+![[plazaitalia.png]]

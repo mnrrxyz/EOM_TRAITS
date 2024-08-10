@@ -1,0 +1,1 @@
+![[piquetes.png]]

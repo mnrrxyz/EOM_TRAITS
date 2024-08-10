@@ -1,0 +1,1 @@
+![[pinarderocha.png]]

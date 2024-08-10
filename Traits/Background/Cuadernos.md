@@ -3,3 +3,6 @@ En agosto de 2018, Argentina se vio sacudida por el escándalo de los **Cuaderno
 La trama explotó: exfuncionarios, empresarios y políticos de renombre fueron implicados, haciendo que el país entero se preguntara quién no estaba metido en el lío. Detenciones, confesiones de "arrepentidos" y un desfile de bolsas de dinero hicieron que la causa de los Cuadernos fuera la serie de corrupción más adictiva del momento.
 
 El caso desnudó un sistema de corrupción profundamente arraigado, sacudiendo los cimientos del poder en Argentina. Juicios, debates y revelaciones continuaron, mientras el país intentaba digerir el escándalo y buscar maneras de restaurar la confianza en sus instituciones.
+
+
+![[cuadernos.png]]

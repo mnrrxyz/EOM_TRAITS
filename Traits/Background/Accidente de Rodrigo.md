@@ -4,6 +4,10 @@ Pero todo cambió la madrugada del 24 de junio de 2000, en un accidente que aún
 
 El accidente dejó a todo un país en shock, llenando las calles de lágrimas y teorías de conspiración. Algunos hablaban de las malas condiciones de la autopista, otros de una supuesta pelea dentro del auto, y unos cuantos, de las estrellas del destino. Lo que es seguro es que Rodrigo dejó un legado que sigue vibrando, una voz que resuena más allá de su tiempo y un vacío en el corazón del cuarteto que nadie ha podido llenar.
 
+![[accidenterodrigo.png]]
+
+
+
 
 [[Rodrigo]] (hacer pagina especifica de Rodrigo)
 info:

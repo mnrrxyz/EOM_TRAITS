@@ -1,1 +1,3 @@
+
+**"Los Bañeros Más Locos del Mundo"** es una película de comedia argentina estrenada en 1987 que se ha ganado un lugar especial en el corazón de muchos por su humor desenfrenado y su carácter icónico dentro del cine nacional. Dirigida por Carlos Galettini, la película es un ejemplo del slapstick argentino, llena de gags visuales, situaciones absurdas, y personajes entrañables.
 ![[Los_baneros_mas_locos_del_mundo.png]]

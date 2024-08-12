@@ -1,1 +1,5 @@
+Juntos, De la Rúa y Cavallo formaron un dúo dinámico de disfunción, una especie de Batman y Robin del desastre económico. Bajo su liderazgo, el país entró en una espiral de deuda, recesión y desempleo que culminó en la crisis del 2001. Fueron los protagonistas de una serie de eventos que dejaron una lección inolvidable: no importa cuánto creas que algo no puede empeorar, siempre hay margen para la sorpresa.
+
+Así que ahí los tienes, De la Rúa y Cavallo, dos figuras que nos recuerdan que la política y la economía no siempre son elocuentes narrativas de progreso, sino a veces simplemente guiones de una tragicomedia escrita por el destino. ¡Salud por los buenos tiempos! O, mejor dicho, por el recordatorio de que siempre podemos aprender de nuestros errores pasados... o al menos intentarlo.
+
 ![[delaruacavallo.png]]

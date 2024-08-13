@@ -1,0 +1,1 @@
+![[duko tatu.png]]

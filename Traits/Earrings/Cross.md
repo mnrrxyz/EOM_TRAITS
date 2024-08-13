@@ -1,0 +1,1 @@
+![[arito cruz.jpg]]

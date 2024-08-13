@@ -1,0 +1,1 @@
+![[Anda pa alla.png]]

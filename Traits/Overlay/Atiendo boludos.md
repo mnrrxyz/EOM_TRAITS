@@ -1,0 +1,1 @@
+![[Atiendo boludos.png]]

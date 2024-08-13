@@ -1,0 +1,1 @@
+![[Es_solo_plata.png]]

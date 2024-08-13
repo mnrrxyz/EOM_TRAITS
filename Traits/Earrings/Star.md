@@ -1,0 +1,1 @@
+![[arito star.jpg]]

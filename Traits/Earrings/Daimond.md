@@ -1,0 +1,1 @@
+![[arito daimond.jpg]]

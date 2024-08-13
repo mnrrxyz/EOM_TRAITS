@@ -1,0 +1,1 @@
+![[dilom tatu.png]]

@@ -1,0 +1,1 @@
+![[Sos inimputable.png]]

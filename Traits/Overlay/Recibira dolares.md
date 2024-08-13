@@ -1,0 +1,1 @@
+![[Recibira dolares.png]]

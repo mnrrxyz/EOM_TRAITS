@@ -1,0 +1,1 @@
+![[Gaucho_hat.png]]

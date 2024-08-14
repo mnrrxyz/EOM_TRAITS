@@ -1,0 +1,1 @@
+![[gorra policia.png]]

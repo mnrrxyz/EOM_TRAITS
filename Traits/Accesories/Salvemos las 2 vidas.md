@@ -1,0 +1,1 @@
+![[pañuelo celeste.png]]

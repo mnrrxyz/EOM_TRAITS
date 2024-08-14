@@ -1,0 +1,1 @@
+![[partido obrero.png]]

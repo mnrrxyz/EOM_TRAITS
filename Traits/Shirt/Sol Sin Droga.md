@@ -1,0 +1,1 @@
+![[Sol_sin_droga.png]]

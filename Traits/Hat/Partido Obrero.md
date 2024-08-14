@@ -1,0 +1,1 @@
+![[gorra partido obrero.png]]

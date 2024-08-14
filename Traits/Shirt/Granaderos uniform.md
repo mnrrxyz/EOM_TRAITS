@@ -1,0 +1,1 @@
+![[Granaderos_Uniform.png]]

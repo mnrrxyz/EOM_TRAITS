@@ -1,0 +1,1 @@
+![[goku mono.png]]

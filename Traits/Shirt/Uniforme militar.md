@@ -1,0 +1,1 @@
+![[Uniforme_militar.png]]

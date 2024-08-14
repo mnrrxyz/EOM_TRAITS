@@ -1,0 +1,1 @@
+![[pañuelo verde.png]]

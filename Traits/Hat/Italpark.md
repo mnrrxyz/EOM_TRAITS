@@ -1,0 +1,1 @@
+![[gorra italpark.png]]

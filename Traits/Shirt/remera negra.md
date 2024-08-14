@@ -1,0 +1,1 @@
+![[remera negra falta.png]]

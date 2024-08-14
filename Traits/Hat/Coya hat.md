@@ -1,0 +1,1 @@
+![[gorrito coya.png]]

@@ -1,0 +1,1 @@
+![[Cositorto_shirt.png]]

@@ -1,0 +1,1 @@
+![[francella_and_bart.png]]

@@ -1,0 +1,1 @@
+![[gorra EOM_Green.png]]

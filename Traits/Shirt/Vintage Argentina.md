@@ -1,0 +1,1 @@
+![[vintage afa jacket.png]]

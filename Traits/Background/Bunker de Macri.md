@@ -1,3 +1,4 @@
+Imposible de explicar, tenias que estar ahi.
 
 
 ![[bunkerdemacri.png]]

@@ -1,1 +1,5 @@
 ![[once.png]]
+
+
+
+LORE EMILIO KIRNERISMO

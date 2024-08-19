@@ -8,3 +8,6 @@ La promesa de Menem fue recibida con escepticismo y rápidamente se convirtió e
 Info
 
 https://www.youtube.com/watch?v=kTybwGNk5Ew
+
+
+LORE EMILIO MENEMISTA

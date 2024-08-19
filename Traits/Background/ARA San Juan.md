@@ -19,8 +19,3 @@ vids:
 https://www.youtube.com/watch?v=M_QotkUTT5M
 https://youtu.be/uomoC8dO5FI?si=DAKIaRcT4MgDCQ4P
 https://youtu.be/PilWU42XG7g?si=eWsvZh9w5HF9owCY
-imgs:
-![[Pasted image 20240728203341.png]]
-![[Pasted image 20240728203321.png]]
-![[Pasted image 20240728203402.png]]
-![[Pasted image 20240728203409.png]]

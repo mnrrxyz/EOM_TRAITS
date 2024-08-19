@@ -3,3 +3,8 @@ El **Cerro de los Siete Colores** es una maravilla geológica situada en el pint
 ![[cerro7colores.png]]
 
 info
+
+
+Edits emilio en el norte??
+
+

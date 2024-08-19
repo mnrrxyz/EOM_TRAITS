@@ -10,3 +10,9 @@ El potrero simboliza la pasión, la perseverancia y el amor por el juego. Es una
 
 
 ![[potrero.png]]
+
+
+
+INFO
+
+Edit potrero con emilios??

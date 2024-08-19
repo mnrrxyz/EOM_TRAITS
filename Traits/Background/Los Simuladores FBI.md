@@ -1,1 +1,5 @@
 ![[simuladoresfbi.png]]
+
+LORE EMILIO SIMLADORES??
+
+NACIMIENTO DE DIVISION PSYOP?

@@ -1,1 +1,9 @@
 ![[pizzeria_kentucky.jpg]]
+
+
+
+LORE EMILIO??
+
+BEEF CON PIZZERIAS?
+
+KENTUCKY VS GUERRIN VS UGIS

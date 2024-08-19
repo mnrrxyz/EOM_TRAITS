@@ -1,3 +1,8 @@
-### Un Final Abierto
 
 El Triple Crimen de General Rodríguez sigue siendo un misterio en gran medida irresuelto, un ejemplo de cómo las intrigas pueden distorsionar la percepción de la realidad. La historia se ha convertido en una leyenda urbana que evoca el miedo y la fascinación por lo desconocido. En este relato de crimen y corrupción, lo único claro es que la búsqueda de justicia es un camino que serpentea a través de la oscuridad, dejando tras de sí un rastro de incertidumbres que todavía resuenan en la conciencia colectiva.
+
+
+
+LORE D EMILIO??
+
+QUIZAS SE PUEDE HACER UN ESQUIZO EDIT CON LAS POLEMICAS TURBIAS ARG, Y LINKEAR A ESTA ENTRADA DEL WIKI

@@ -1,1 +1,0 @@
-![[mundial22.png]]

@@ -4,3 +4,6 @@ La capital de nuestro país se convirtio en zona de guerra.
 Las teorías apuntan a la conspiración entre militares descontentos y civiles, todos queriendo borrar a Perón del mapa político. 
 
 ![[plaza de mayo 55.png]]
+
+
+LORE EMILIO?

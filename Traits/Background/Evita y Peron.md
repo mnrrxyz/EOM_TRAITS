@@ -6,3 +6,6 @@ En el caótico escenario de la política, Perón y Evita demostraron que el amor
 
 
 ![[Evita_y_Peron.png]]
+
+Lore de Emilio con esto??
+Que enfoque le vamos a dar el peronismo

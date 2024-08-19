@@ -1,1 +1,6 @@
 ![[Norte_Argentino.png]]
+
+
+LORE EMILIO?
+
+ARMAR VIDEO DE EMILIO EN EL NORTE

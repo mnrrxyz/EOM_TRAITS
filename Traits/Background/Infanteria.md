@@ -1,1 +1,5 @@
 ![[infanteria.png]]
+
+
+
+LORE EMILIO?

@@ -1,1 +1,4 @@
 ![[dia.png]]
+
+
+LORE EMILIO?

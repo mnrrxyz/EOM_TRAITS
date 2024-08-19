@@ -5,3 +5,10 @@ El McDonald's de la Avenida 9 de Julio en Buenos Aires es más que una simple su
 info:
 
 https://www.youtube.com/watch?v=Vz5WbCVda2o
+
+
+Lore Emilio ???
+
+Si hacemos edits de los momentos bizarros pero con emilios?
+
+

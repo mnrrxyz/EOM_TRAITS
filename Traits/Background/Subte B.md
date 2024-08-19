@@ -1,1 +1,7 @@
-![[subteb.png]]
+
+
+
+VIDEO D EOM CON ESTOS SUBTES??
+
+
+BEEF ENTRE LINEAS DE SUBTE?

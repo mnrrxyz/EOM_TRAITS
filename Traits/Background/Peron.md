@@ -1,4 +1,4 @@
-FALTA IMAGEN
+![[peron.png]]
 
 
 LORE EMILIO

@@ -1,5 +1,5 @@
 
-
+![[subteb.png]]
 
 VIDEO D EOM CON ESTOS SUBTES??
 

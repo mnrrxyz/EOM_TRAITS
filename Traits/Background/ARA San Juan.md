@@ -7,7 +7,7 @@ Luego realizaría un patrullaje en la zona económica exclusiva de Argentina par
 El 15 de noviembre de 2017, el submarino desapareció con 44 tripulantes a bordo mientras realizaba actividades de patrullaje mar adentro. 
 
 Tras un año de búsqueda, una empresa privada encontró los restos del ARA San Juan a 907 metros de profundidad, muy cerca del punto de desaparición. Se cree que el submarino sufrió una implosión que causó la muerte de todos los tripulantes.
-
+![[ARA_San_Juan.png]]
 
 info:
 https://es.wikipedia.org/wiki/ARA_San_Juan_%28S-42%29

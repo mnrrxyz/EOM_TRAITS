@@ -3,3 +3,7 @@ El caso de María Marta García Belsunce es uno de los más intrigantes y mediá
 Durante años, el caso estuvo plagado de giros, acusaciones y teorías. El viudo de María Marta, Carlos Carrascosa, fue inicialmente condenado y luego absuelto en 2016 tras pasar varios años en prisión. Nicolás Pachelo, un vecino del country con un historial de delitos menores, surgió como sospechoso desde el inicio, pero no fue hasta 2021 que fue procesado como coautor del homicidio.
 
 En agosto de 2023, el caso llegó a una conclusión definitiva cuando Nicolás Pachelo fue condenado por el asesinato de María Marta García Belsunce. Esta sentencia cerró un capítulo de casi 21 años de investigación y especulación, proporcionando finalmente algún grado de cierre a la familia y a un público que siguió el caso con gran interés durante más de dos décadas.
+
+
+
+![[casabelsunce.png]]

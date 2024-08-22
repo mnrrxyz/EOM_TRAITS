@@ -1,1 +1,2 @@
+Despues de el que probablemente sea el Diciembre mas violento y trágico de las ultimas decada, en enero de 2002 asume la presidencia del pais Eduardo Duhalde, quien dijo la infame frase "el que deposito dolares recibira dolares" para bajar el nerviosismo generalizado que se vivian por esos dias, finalmente no se cumplieron los contratos y hubo una licuacion de deuda
 ![[Recibira dolares.png]]

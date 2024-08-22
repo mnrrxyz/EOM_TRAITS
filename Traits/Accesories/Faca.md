@@ -1,1 +1,2 @@
+la Faca es un noble arma creada a base de encendedores y objetos punzantes, si algun dia caes preso seguro sea tu mejor aliada, facil de esconder y si el fierro esta un poco oxidado te da +10 de ataque
 ![[faca.png]]

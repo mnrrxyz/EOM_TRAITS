@@ -1,1 +1,3 @@
+En el año 2007, en medio de un paro de colectivos un periodista de cronica TV fue a realizarle una preguntas al inspector daniel frasca, el cual empieza a responderle de forma despectiva las preguntas al entrevistador, entre las cuales se encuentra la ya iconica atiendo boludos 
+["Atendedor de boludos" - Blooper histórico de Crónica HD (youtube.com)](https://www.youtube.com/watch?v=i5Vdl_unhHQ)
 ![[Atiendo boludos.png]]

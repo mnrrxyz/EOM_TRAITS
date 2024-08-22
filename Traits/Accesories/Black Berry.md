@@ -1,1 +1,1 @@
-![[blackberry.png]]
+ver si sigue en la colección 

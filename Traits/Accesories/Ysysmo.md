@@ -1,1 +1,2 @@
+Ysy a es probablemente uno de los majores exponentes del genero urbano, para el lanzamiento de su disco ysysmo la marca de joyeria don rouch le diseño esta hermosa cadena, la cual ysy lucio en la presentacion de su disco y en los videoclips del mismo  
 ![[chain ysysmo.png]]

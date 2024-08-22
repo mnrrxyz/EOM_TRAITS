@@ -1,1 +1,2 @@
+queres conocer las hermosas estacion del tren roca? o moverte por las mejores lineas de colectivo en villa devoto? entonces no podes no tener tu sube, la tarjeta para moverte en el transporte publico nacional a partir del año 2011
 ![[sube.png]]

@@ -1,1 +1,2 @@
+0800 don rouch se posiciono gracias al movimiento de trap argentino como una de las marcas de joyeria mas icónicas del momento, con sus diseños personalizados a la mayor parte de la escena local.
 ![[cadenita don rouch.png]]

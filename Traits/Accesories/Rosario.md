@@ -1,1 +1,2 @@
+Por medio del rosario los fieles reciben abundantes gracias, desde las mismas manos de la Madre del Redentor. el catolicismo en la argentina es la religion mas practicada, el rosario es la representacion de la fe, la creencia de un sentido. 
 ![[rosario.png]]

@@ -1,1 +1,2 @@
+quizas un instrumento no tan iconico, pero de suma importancia para el pais, desde sus viejos diseños hasta el actual, el bombo siempre estuvo en los momentos importantes del pais, movilizaciones, partidos de futbol, reuniones, folklore, en cuanto a eventos sociales de grandes masas respecta, el bombo cumple un rol fundamental 
 ![[bombo.png]]

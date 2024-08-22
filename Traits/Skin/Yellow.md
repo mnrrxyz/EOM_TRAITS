@@ -1,1 +1,2 @@
+Coloquialmente un tono de piel mas amarillenta esta asociado a los rasgos asiaticos, en argentina particularmente con la comunidad china, etnia que a conseguido establecerse en el pais de la mano de sus almacenes y supermercados, ya es parte del comun de la gente la frase, "anda a comprar al chino" 
 ![[skin amarillo.png]]

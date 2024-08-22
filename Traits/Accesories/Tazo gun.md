@@ -1,1 +1,2 @@
+No se puede imaginar la infancia en los noventas sin un lanza tazos en la mano, marco los recreos de una época, esa sensación al coleccionar los tazos y usarlos como proyectiles quedo grabada en la retina en todos los niños de los 90 
 ![[tazo_gun.png]]

@@ -1,1 +1,2 @@
+el billete verde en la republica argentina es sinónimo de estabilidad y ahorro, la basta historia economica del pais y la constante perdida de valor de su moneda genero que ya sea parte de la cultura nacional el guardar sus ahorros en la moneda estadounidense.
 ![[dolar.png]]

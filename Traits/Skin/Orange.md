@@ -1,1 +1,2 @@
+nuestros vecinos bolivianos y paraguayos emigraron al pais en busca de mejores oportunidades, en el caso del colectivo boliviano esta asociado a las verdulerias y los paraguayos con la mano de obra barata 
 ![[skin orange.png]]

@@ -1,1 +1,2 @@
+En el pais austral esta vinculado al partido justicialista y es conocida como la V de la victoria, son muchas la teorias por la cuales se vincula la V al moviemiento popular, pero la mas representativa es la que hace referencia a la vuelta de peron de su exilio 
 ![[v peronista.png]]

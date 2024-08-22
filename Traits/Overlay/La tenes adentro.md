@@ -1,0 +1,4 @@
+vos tambien la tenes adentro fue una frase dicha por maradona en rueda de prensa al periodista toti pasman, la seleccion se jugaba la clasificacion al mundial de sudafrica 2010 en montevideo, con un gol de bolatti en el minuto 84 la argentina sella su clasificacion y al final del partido maradona se lo dedica a la gente e insulta a los periodista mientras se abraza con bilardo.
+"Esto es para todos los argentinos, menos para los periodistas. ¡Que la chupen! ¡Que la chupen!"
+grtitaba diego al finalizar el partido.
+ya en ruede de prensa el periodista pasman le realiza una pregunta a maradona, el cual, sin dejar que termine lo interrumpe y le dice, vos tambien pasman, vos tambien la tenes adentro.

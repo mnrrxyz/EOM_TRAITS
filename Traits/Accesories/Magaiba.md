@@ -1,1 +1,2 @@
+magaiba, además de ser la primera memecoin nacional en alcanzar relevancia, es autóctono de nuestras tierras, el lagarto teju se distribuye por el centro de Argentina, Sureste de Bolivia y Noroeste de Paraguay.
 ![[magaiba.png]]

@@ -1,1 +1,2 @@
+El vino seimpre se encuentra en las mesas de los argentinos, mucho mas cuando se encuentra un asado de por medio, quizas el mas humilde de sus exponentes sea el vino toro junto al termidor, siempre acompañando la mesa de los argentinos 
 ![[Vino_toro.png]]

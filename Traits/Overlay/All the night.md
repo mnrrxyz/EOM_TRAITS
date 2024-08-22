@@ -1,1 +1,3 @@
+La frase all the night esta relacionada a javier bazterrica, mas conocido como  "el gigolo" quien salto a la fama en el año 2015 debido a multiples denuncias por estafa a mujeres, siendo el caso mas conocido el de la hermana de flavio mendoza, quien lo denuncio penalmente por una estafa de 5mil dolares. pero lo que realmente puso a javier en el centro de la atencion televisiva fue su personalidad y diversos audios terminados en All the night
+[GIGOLO- "ALL THE NIGHT" (youtube.com)](https://www.youtube.com/watch?v=qqMX9RapiZM)
 ![[All the night.png]]

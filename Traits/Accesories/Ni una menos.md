@@ -1,1 +1,2 @@
+Al rededor del año 2017 con la discusión sobre el aborto en la argentina, los movimientos feministas en el pais tomaron mucha fuerza, el pañuelo verde se convirtió en un simbolo de lucha y representacion para una generacion y un movimiento. 
 ![[pañuelo verde.png]]

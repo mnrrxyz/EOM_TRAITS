@@ -1,1 +1,2 @@
+Para algunos un vicio, para otros una parte de quien son, el cigarrillo, mas alla de un consumo forma parte de la cultura, desde pedirr un fuego en el bar, con la verdadera intencion de charlar con esa persona la cual ya deja dislumbrar su nivel de interes en la forma que nos lo presta, hasta una noche oscura y solitaria, en la cual sirve de testigo en las interminables charlas entre dos caras de un mismo ser, como lo argentino, el cigarro es una simple herramienta para lo que se esconde detras de lo obvio, donde radica el valor real de las cosas.
 ![[boca cigarrillo.png]]

@@ -1,1 +1,4 @@
+Maria Emilia Mernes, oriunda de nogoya, entre rios, empezo su carrera como cantante colgando videos en linea, donde en 2016 llamo la atencion del grupo Rombai, el cual la tomo como vocalista principal del grupo, donde despego su carrera hasta el año 2018 en el cual decide abandonar el grupo.
+En 2019 firma con sony y WK Entertainment representada por Walter Kolm, comenzando su carrera como solista creciendo hasta el lanzamiento de su primer album ¿tu crees en mi? en el año 2022 el cual potencio su carrera y la puso en el centro de la escena del genero urbano, siendo de las artistas mas escuchadas del pais.
+A lo largo de su carrera emilia siempre utilizo brillitos debajo de sus ojos, los cual ya es una marca de la artista.
 ![[diamantes emilia.png]]

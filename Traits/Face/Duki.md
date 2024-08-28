@@ -1,1 +1,5 @@
+La historia de Mauro Lombardo, mas conocido como Duki, es quizas la mas representativa y notoria dentro del trap argentino.
+Duki salto a la fama junto al crecimiento de la competencia de rap El quinto escalon, debido a su gran nivel y barras que quedaron para la historia, duki empezó a labrarse un nombre dentro de la escena nacional.
+En un edición del quinto escalon, en la cual duki se consagra, el premio para el ganador era la grabacion de un tema en un estudio, asi fue como el artista pisaba un estudio por primera vez, en ese estudio se gesto lo que seria el primer tema de muchos "no vendo trap" el cual fue un exito y abrio una nueva etapa en la vida de mauro, desde ese dia su carrera solo fue en ascenso, hasta llegar el santiago Bernabéu en españa.
+quizas la etapa mas iconica del artista sea la que protagonizo junto a neo pistea e ysy A, en el grupo modo diablo, por esos tiempos duki deci tatuarse la cara, siendo uno de los primeros y en palabras de el mismo, marcando que ya no hay vuelta atras.
 ![[duko tatu.png]]

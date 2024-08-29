@@ -1,1 +1,1 @@
-![[comandante.png]]
+![[Comandante.png]]

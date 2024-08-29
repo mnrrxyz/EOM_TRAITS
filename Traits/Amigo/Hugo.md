@@ -1,0 +1,1 @@
+![[EOM_TRAITS/Imgs/Hugo.png]]

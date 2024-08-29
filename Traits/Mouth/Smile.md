@@ -1,1 +1,2 @@
-![[boca 3.png]]
+
+![[boca riendo 1.png]]

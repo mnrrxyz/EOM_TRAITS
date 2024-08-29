@@ -1,0 +1,1 @@
+![[Cerati_Jacket.png]]

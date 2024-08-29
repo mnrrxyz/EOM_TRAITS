@@ -1,1 +1,2 @@
-![[braian_red.png]]
+e
+![[brain orange.png]]

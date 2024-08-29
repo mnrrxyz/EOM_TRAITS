@@ -1,1 +1,0 @@
-![[Stusio_hoodie.png]]

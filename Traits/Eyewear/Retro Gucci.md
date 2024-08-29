@@ -1,0 +1,2 @@
+
+![[Retro_gucci.png]]

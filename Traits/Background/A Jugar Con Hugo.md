@@ -3,7 +3,7 @@
 La cosa era simple: salvar a Hugo y ganar premios, pero entre líneas de teléfono saturadas y comandos que llegaban tarde, la risa estaba asegurada. Este show era un carnaval interactivo que definió una era y dejó una marca en la memoria colectiva. ¡Pura nostalgia digital!
 
 
-![[hugo.png]]
+![[EOM_TRAITS/Imgs/Hugo.png]]
 
 
 

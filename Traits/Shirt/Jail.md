@@ -1,1 +1,1 @@
-![[Prision.png]]
+![[Jail.png]]

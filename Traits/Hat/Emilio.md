@@ -1,1 +1,0 @@
-![[gorra Emilio.png]]

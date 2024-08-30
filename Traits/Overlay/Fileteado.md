@@ -1,3 +1,5 @@
+El fileteado surgió a fines del siglo XIX en buenos aires, con un contexto inmigratorio en el pais y es consecuencia del choque cultural que el mismo genera, comenzo como una manera de adornar los carros de la epoca, contando con diseños y frases varias, el fileteado fue evolucionando de forma natural en los ambitos populares de la epoca, este estilo se fue expandiento por la ciudad a lo largo de los años, convirtiéndose en un rasgo de lo porteño, desde fachadas de negocios hasta colectivos.
+El fileteado nació como expresion misma de la dinamica de la ciudad, improvisando, lgo que surgio y comenzo a gustar y expandirse, a la ves que se le agregaban nuevas elementos como las frases y detalles en profundidad, el fileteado logra cristalizar la realidad de una epoca de cambio y experimentación muy importante para el pais.  
 
 
 ![[Fileteado_porteno 1.png]]

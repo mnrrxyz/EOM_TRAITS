@@ -1,2 +1,3 @@
-criollo?
+El termino criollo inicialmente fue utilizado para los hijos de padres españoles nacidos fuera del país, pero a lo largo de los años estos criollos se empezaron a mezclar con los nativos y esclavos de las colonias, por lo que terminaron teniendo raíces tanto de nativos como de colonos, lo que les confería algunos derechos respecto a la colonia y un entendimiento y afecto de las tradiciones e idiomas locales, lo que le traería problemas con la corona, el criollo por lo general se ubico del lado de los nativos en las guerras y posteriormente se los vincularía también con los gauchos.
+
 ![[skin tostado.png]]

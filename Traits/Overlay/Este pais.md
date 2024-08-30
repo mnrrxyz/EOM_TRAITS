@@ -1,2 +1,3 @@
-la pelicula 9 reinas es de las mas iconicas en el cine argentino, en ella el actor ricardo darin protagoniza un escena en la cual roba cosas varias, las cuales va descartando hasta llegar a un dulce elaborado en grecia, al abrirlo suelta la frase "este pais se va a la mierda"
+la pelicula 9 reinas es de las mas iconicas en el cine argentino, en ella el actor Ricardo Darin protagoniza un escena en la cual roba cosas varias, las cuales va descartando hasta llegar a un dulce elaborado en grecia, al abrirlo suelta la frase "este pais se va a la mierda"
 esta frase refleja el constante estado de vorágine en el cual se encuentra la argentina, ya que siempre que se la escucha sigue sonando actual.
+![[Este_Pais.png]]

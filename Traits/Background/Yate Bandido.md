@@ -1,5 +1,2 @@
-ARMAR RELATO ESQUIZO
 
-UNIR A LORE DE EMILIO
-
-
+![[Yate_Bandido.png]]

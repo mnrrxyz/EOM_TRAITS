@@ -8,7 +8,7 @@
 Info
 
 Youtube
-video del ysy rapeando con el palancas
+video del ysy rapeando 
 
 agregar mejores batallas
 

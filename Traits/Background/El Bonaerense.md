@@ -1,1 +1,1 @@
-![[elbonarense.png]]
+![[elbonarense 1.png]]

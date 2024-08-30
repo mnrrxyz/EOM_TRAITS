@@ -1,2 +1,2 @@
 
-![[Comandante.png]]
+![[EOM_TRAITS/Imgs/Background/comandante.png]]

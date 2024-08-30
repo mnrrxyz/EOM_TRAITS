@@ -7,8 +7,6 @@ Lo mordés y en ese instante, la realidad se distorsiona: el chimichurri se desp
 
 
 
-![[chori.png]]
-
-
+![[chorizos.png]]
 
 

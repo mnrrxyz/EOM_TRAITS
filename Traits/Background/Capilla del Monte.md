@@ -4,6 +4,12 @@ Este cerro ha sido el epicentro de avistamientos de ovnis y fenómenos paranorma
 
 ![[CAPILLADELMONTE (1).jpg]]
 
+
+
+
+
+LOREA ALIENIGENA DE EMILIO?? 
+ACA DONDE SE INICIO TODO??
 Info
 
 ![[capilladelmonte.jpg]]

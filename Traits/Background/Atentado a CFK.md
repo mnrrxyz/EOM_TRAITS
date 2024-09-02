@@ -3,7 +3,8 @@ En un acto de intervencion divina, el revolver se niega a disparar.
 
 Si fuese un guión de Netflix, nos pareceria ridiculo pero esto es Argentina...
 
-Las teorías conspirativas no tardaron en viralizarse: .
+Las teorías conspirativas no tardaron en viralizarse...
+INVESTIGUEN A MILMAN
 
 ![[atentadoacristina.png]]
 

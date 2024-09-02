@@ -1,1 +1,1 @@
-![[EOM_TRAITS/Imgs/Fernando.png]]
+![[EOM_TRAITS/Imgs/Amigo/Fernando.png]]

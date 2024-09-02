@@ -1,6 +1,5 @@
-Carlitos Menem Jr., el hijo del expresidente Carlos Menem, vivía a toda velocidad, siempre a bordo de coches de carreras o helicópteros. Era el típico "golden boy" de la política, con un futuro tan brillante como un meme viral. Sin embargo, el 15 de marzo de 1995, su vida se apagó en un extraño accidente de helicóptero en San Nicolás, provincia de Buenos Aires.
-
-Aquí es donde la historia se pone oscura, con más giros que una novela de espionaje. Oficialmente, el accidente fue atribuido a un error del piloto, pero desde entonces han surgido teorías conspirativas que harían sonrojar a cualquier guionista de Hollywood.
+Carlitos Menem Jr, el hijo del expresidente Carlos Menem estaba destinado a seguir con el legado de su viejo. El fruto no cae lejos del arbol...
+Sin embargo, el 15 de marzo de 1995, su vida terminó en un extraño accidente de helicóptero en San Nicolás, provincia de Buenos Aires.
 
 En ese tiempo, Argentina estaba sumida en un escándalo de tráfico de armas, con el propio Carlos Menem siendo acusado de haber facilitado ventas ilegales a Croacia y Ecuador. Algunos rumores sugieren que Carlitos podría haber estado involucrado o haber sabido demasiado sobre estos oscuros tratos. Esta conexión llevó a especular que su accidente podría haber sido un "silenciamiento" encubierto, un ajuste de cuentas en el peligroso juego del poder.
 
@@ -8,3 +7,8 @@ Así, el caso de Carlitos Menem Jr. se transforma en una especie de mito urbano 
 
 
 ![[Accidente_Junior.png]]
+
+
+Info:
+
+youtube?

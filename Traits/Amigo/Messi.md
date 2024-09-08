@@ -1,2 +1,2 @@
 
-![[EOM_TRAITS/Imgs/Messi.png]]
+![[EOM_TRAITS/Imgs/Amigo/Messi.png]]

@@ -1,1 +1,1 @@
-![[EOM_TRAITS/Imgs/Hugo.png]]
+![[EOM_TRAITS/Imgs/Amigo/Hugo.png]]

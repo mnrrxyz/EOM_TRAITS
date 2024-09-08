@@ -1,5 +1,16 @@
 
-El Mundial '86 en Argentina es como un mito fundacional, una epopeya que mezcla fútbol, mística y un toque de magia. Imaginá un país en crisis, con el peso de la dictadura todavía fresco, y de repente, Diego Maradona, como un semidiós, decide que el mundo tiene que recordar quiénes somos. Entre goles imposibles y la famosa "Mano de Dios", Argentina se abre camino hasta la final. El país entero late al ritmo del balón, y cuando Maradona levanta la copa, no es solo un trofeo: es una revancha, un acto de justicia poética. Es la confirmación de que, por un momento, fuimos invencibles.
+El Mundial '86 en Argentina es como un mito fundacional, una epopeya que mezcla fútbol, mística y magia. Imaginá un país en crisis, con el peso de la dictadura y la guerra con los Ingleses todavia fresco...
+Para el argentino, fue una renovacion de esperanza y el recuerdo del potencial que tenemos como pais.
+
+Diego Armando Maradona, cuál Dios caprichoso decide usar sus poderes para que una vez mas, Argentina sea eterna.
+
+El partido con los ingleses es el mas significativo: Vimos como un Dios es capaz de utilizar tanto el engaño como la gracia divina para cumplir con su cometido.
+
+
+
+
+
+![[Argentina_86.png]]
 
 
 

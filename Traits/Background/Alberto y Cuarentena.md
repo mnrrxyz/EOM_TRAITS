@@ -15,3 +15,6 @@ imgs:
 ![[Pasted image 20240728201131.png]]
 ![[Pasted image 20240728201141.png]]
 ![[Pasted image 20240728201208.png]]
+
+
+

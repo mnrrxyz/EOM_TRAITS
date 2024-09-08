@@ -1,2 +1,2 @@
-Te pones tus walkman, clavas un caset de hermetica, te fumas un porro y te tiras en la cama, afuera llueve, no hay mejor plan que disociar la realidad con ese hermoso ritual, una vez que termina el caset, rotarlo y volver a empezar
+Te pones tus walkman, clavas un caset de hermetica, te fumas un porro y te tiras en la cama, afuera llueve, no hay mejor plan que disociar la realidad con ese hermoso ritual, una vez que termina el caset, toca rotarlo y volver a empezar,
 ![[headphones.png]]

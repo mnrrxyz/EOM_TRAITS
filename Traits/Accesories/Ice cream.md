@@ -1,2 +1,2 @@
-un buen helado es equivalente a una obra de arte bien realizada, infinidad de sabores y presentaciones varias, un heladero amigo tenia una heladeria familiar, bien de barrio, como todo lo que suele ser bueno, no hay nada mas rico y bien elaborado que las cosas que se realizan con amor
+un buen helado es equivalente a una obra de arte bien realizada, infinidad de sabores y presentaciones varias, un heladero amigo tenia una heladeria familiar, bien de barrio en munro, como todo lo que suele ser bueno, no hay nada mas rico y bien elaborado que las cosas que se realizan con amor y de forma artesanal.
 ![[Ice_cream.png]]

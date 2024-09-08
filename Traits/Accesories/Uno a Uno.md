@@ -1,3 +1,3 @@
 Un dolar un peso, la frase de una epoca.
-alla por la decada de los 90, con la asuncion de carlos menem como presidente de la republica argentina el 1 de abril de 1991 entro en vigor la ley de covertibilidad, la cual dictaba que ahora el peso argentino era convertible 1 a 1 con el dolar, lo cual trajo años muy prósperos para el pais, hasta la caída de este sistema en el año 2001
+alla por la decada de los 90, con la asuncion de carlos menem como presidente de la republica argentina el 1 de abril de 1991 entro en vigor la ley de covertibilidad, la cual dictaba que ahora el peso argentino era convertible 1 a 1 con el dolar, lo cual trajo años muy prósperos para el pais, hasta la caída de este sistema en el año 2001, lo que genero una de las etapas mas crudas, dificiles y representativas del pais, la convertibilidad quedo marcada a fuego en la historia.
 ![[1 dolar 1 peso.png]]

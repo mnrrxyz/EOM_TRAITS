@@ -1,2 +1,2 @@
-queres conocer las hermosas estacion del tren roca? o moverte por las mejores lineas de colectivo en villa devoto? entonces no podes no tener tu sube, la tarjeta para moverte en el transporte publico nacional a partir del año 2011
+queres conocer las hermosas estaciones del tren roca? o moverte por las mejores lineas de colectivo en villa devoto? entonces la sube es indispensable para vos, la tarjeta para moverte en el transporte publico nacional a partir del año 2011, fondeala con unos buenos pesos crocantes y listo, ya podes moverte por la geografía del pais, lo unico tene cuidado en la linea B del subte.
 ![[sube.png]]

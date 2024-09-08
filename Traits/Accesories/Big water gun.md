@@ -1,2 +1,2 @@
-Verano, 32 grados, amigos, familiares, entrado diciembre, queda un muy lejos el inicio de clases, ni se piensa en eso, solo esta en mi cabeza buscar la mejor esquina en el patio de mi abuela para esconderme y disparar, con la eficacia de un soldado de elite, la pistola de agua gigante que me trabajo el gorbo barbudo la noche anterior.
+Verano, 32 grados, amigos, familiares, entrado diciembre, queda un muy lejos el inicio de clases, ni se piensa en eso, solo esta en mi cabeza buscar la mejor esquina en el patio de mi abuela para esconderme y disparar, con la eficacia de un soldado de elite, la pistola de agua gigante que me trajo el gordo barbudo la noche anterior.
 ![[Big_water_gun.png]]

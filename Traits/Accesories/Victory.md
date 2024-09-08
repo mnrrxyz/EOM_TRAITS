@@ -1,2 +1,3 @@
-En el pais austral esta vinculado al partido justicialista y es conocida como la V de la victoria, son muchas la teorias por la cuales se vincula la V al moviemiento popular, pero la mas representativa es la que hace referencia a la vuelta de peron de su exilio 
+En el mundo, la V fue algo instaurado por el ingles churchill en el contexto de la segunda guerra mundial, como señal de victoria, luego fue rebrandeado por los beatles como señal de paz.
+Pero en el pais austral dicho simbolo esta vinculado al partido justicialista y es conocida como la V de la victoria, son muchas la teorias por la cuales se vincula la V al moviemiento popular, pero la mas representativa es la que hace referencia a la vuelta de peron de su exilio.
 ![[v peronista.png]]

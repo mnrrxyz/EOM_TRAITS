@@ -1,1 +1,3 @@
+Dentro del paquete de surtidas podemos encontrar una variedad cuanto menos interesante de galletitas, una oferta de productos entre los que destacan las rueditas, por muchos amadas, por otros odiadas, lo cierto es que compiten sin ningun problema por el podio de las mejores del paquete, es verdad que depende la marca de las surtidas su calidad y posición en el podio aumenta o decrece, pero es innegable la adicción que genera tanta azúcar con colorante concentrada por unidad.
+
 ![[Rueditas.png]]

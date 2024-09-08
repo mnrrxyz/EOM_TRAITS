@@ -1,2 +1,2 @@
-en base al movimiento de legalización del aborto iniciado en 2017, nació el movimiento reaccionario salvemos las dos vidas como oposición, siento el pañuelo azul la representación del mismo
+en base al movimiento de legalización del aborto iniciado en 2017, nació el movimiento reaccionario salvemos las dos vidas como oposición, siendo el pañuelo azul la representación del mismo
 ![[pañuelo celeste.png]]

@@ -1,2 +1,6 @@
-en el año 2013, el ministro de economia hernan lorenzino dio una entrevista para un medio griego, en la misma la entrevistadora le pregunta reiteradas veces sobre el numero de inflacion y las sopechas y denuncias por presunta falsificacion de datos, a lo cual lorenzino, de forma nerviosa, responde que los datos son los publicados por el indec, ante la insistencia de la periodista, el ministro pide cortar la nota y con la camara apagada pero el microfono abierto, se escucha como el ministro pronuncia la frase "me quiero ir" la cual solo incremento las dudas sobre la veracidad de los datos. 
+Corria el 2013 cuando el ministro de economia Hernan Lorenzino lanzó su iconica frase "Me quiero ir", cuando una periodista griega en medio de una entrevista, le pregunta por el numero de inflacion y las sospechas por presunta falsificacion.
+
+En Argentina, la realidad supera a la ficción.
 ![[Me quiero ir.png]]
+
+https://www.youtube.com/watch?v=tTjW6dnDsYk

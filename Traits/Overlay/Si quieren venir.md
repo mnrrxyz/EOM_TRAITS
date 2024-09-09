@@ -1,2 +1,11 @@
-El 10 de abril de 1982, Leopoldo Galtieri dio un discurso en plaza de mayo el cual tenia como tema el reciente comienzo por la guerra de malvinas, en dicho discurso galtieri solto una frase que marcaria la historia del pais y de esa guerra "si quieren venir que vengan les presentaremos batalla" 
+"Si quieren venir que vengan les presentaremos batalla" 
+
+Frase exclamada por el dictador Galtieri en su discurso en plaza de Mayo el 10 de abril del 1982, en relacion a la guerra con los Ingleses por las Malvinas.
+
+
+
+
 ![[Si_quiere_venir.png]]
+
+
+https://www.youtube.com/watch?v=RHIvFzOn-jQ

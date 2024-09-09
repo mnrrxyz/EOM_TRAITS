@@ -1,2 +1,2 @@
-e
+
 ![[gris largo.png]]

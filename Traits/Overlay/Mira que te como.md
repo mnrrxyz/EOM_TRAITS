@@ -1,4 +1,16 @@
-Copa america 2021, argentina viene de una larga sequia de mas de 30 años sin titulos internacionales, agregado a una seguidilla de finales perdidas tan dolorosas que hasta messi se retiro de la seleccion argentina, todo eso parece ya lejano en esta copa y el pueblo argentino se empieza a ilusioanr nuevamente con un titulo, asi pues argentina se encuentra en semifinales de copa america contra colombia, terminando el partido empatados comienza la tanda de penales y con ella la figura de un nuevo idolo, Emiliano Martinez.
-En dicha tanda el dibu ataja 3 penales al conjunto colombiano y le da el pase a una nueva final para el conjunto albiceleste.
-en dicha tanda, el segundo penal atajado por el dibu viene acompañado de la frase "mira que te como hermano" a yerry mina
+Copa America 2021: Argentina viene de una larga sequia de mas de 30 años sin titulos internacionales.
+
+En las semis vs Colobia, un heroe hasta el momento impensando, comienza a escribir su leyenda.
+
+El partido termina en definicion por tiro de penales.
+
+En dicha tanda, el dibu ataja 3 penales al conjunto colombiano utilizando tecnicas de manipulacion psicologica y le da el pase a una nueva final para el conjunto albiceleste.
+
+El dibu se cogio el cerebro de los colombianos en tv publica, que locura gato.
+
+
 ![[Mira que te como.png]]
+
+
+
+https://www.youtube.com/watch?v=uHwXXSJGUQA

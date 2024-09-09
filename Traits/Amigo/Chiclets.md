@@ -1,1 +1,0 @@
-![[Chiclets 1.png]]

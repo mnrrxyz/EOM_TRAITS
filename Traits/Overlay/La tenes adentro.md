@@ -2,3 +2,6 @@ vos tambien la tenes adentro fue una frase dicha por maradona en rueda de prensa
 "Esto es para todos los argentinos, menos para los periodistas. ¡Que la chupen! ¡Que la chupen!"
 grtitaba diego al finalizar el partido.
 ya en ruede de prensa el periodista pasman le realiza una pregunta a maradona, el cual, sin dejar que termine lo interrumpe y le dice, vos tambien pasman, vos tambien la tenes adentro.![[La_tenes_adentro.png]]
+
+
+https://www.youtube.com/watch?v=KJf2BA8OR3M

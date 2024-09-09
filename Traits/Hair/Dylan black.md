@@ -1,2 +1,2 @@
-e
+
 ![[pelo gris.png]]

@@ -1,2 +1,4 @@
+magaiba so gentle so good
 
-![[So gentile.png]]
+memes? que mas
+![[So gentle.png]]

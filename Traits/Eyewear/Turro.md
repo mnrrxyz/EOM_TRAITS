@@ -1,2 +1,4 @@
 
-![[Turro.png]]
+SHOUTOUT PARA NOBA
+
+![[Turro.png]]meme noba con estos

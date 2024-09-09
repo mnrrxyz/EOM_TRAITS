@@ -1,4 +1,7 @@
-El proceda fue una frase popularizada por el forero Carlos maslaton en el contexto de la cuarentena comunista de alberto fernandez y sombrilla larreta, el cual rapidamente se incorporo como meme
+Frase iconica del forero mas importante del pais: Don Carlos Maslaton.
+
+
+El lore de Masla merece ser estudiado por todo cibernauta argentino.
 ![[proceda.jpg]]
 
 ![[Proceda.png]]

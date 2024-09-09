@@ -1,2 +1,9 @@
-En el mundial de Qatar 2022, mas específicamente en la semifinal entre argentina y holanda,  ya con la clasificacion de la seleccion argentina a la final del certamen, lionel messi se acerca a la rueda de prensa para hablar con gaston edul, justo cuando inicia la entrevista un jugador holandes le dice algo a lionel, el cual responde con la ya iconica frase ¿que mira bobo? la cual quedo como representacion de una nueva faseta del capitan
+Momento bisagra en el Mundial 2022, cuando nuestro Capitan, poseido por el espiritu del Diego, mea por completo al holandes Weghorst en su intento fallido de intimidacion.
+
 ![[Anda pa alla.png]]
+
+
+
+https://www.youtube.com/watch?v=Gqnx36dR5Xk
+
+esquizo edit que miras bobo?

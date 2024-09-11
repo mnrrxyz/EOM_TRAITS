@@ -1,1 +1,2 @@
-![[EOM_TRAITS/Imgs/Churri/Charly.png]]
+
+![[Charly 1.png]]

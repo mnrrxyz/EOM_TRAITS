@@ -1,1 +1,2 @@
+Bien del bajon a la salida del boliche, puteando a los rivales mientras miras a tu equipo en una cancha de futbol o re cagado de hambre en el medio de la calle, un buen chori nunca cae mal, con criolla o chimi, no hay sensación comparable a quedar con las manos todas engrasadas mientras tenes el pan atorado en el medio de la tráquea 
 ![[Choripan.png]]

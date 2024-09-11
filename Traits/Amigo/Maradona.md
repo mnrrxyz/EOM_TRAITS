@@ -1,1 +1,2 @@
+Asi de grande es la que les dejo el diego clavada a los periodista en el 2009 y lo largo de toda su carrera, criticas es lo que le sobran al 10, pero que me importa lo que hizo con su vida, a mi me importa lo que hizo con la mía.
 ![[Maradona.png]]

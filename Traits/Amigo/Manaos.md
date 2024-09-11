@@ -1,2 +1,2 @@
-
+Coca cola?  que me viste cara de cipayo hermano? con lo que sale eso me compro 2 manaos para tomar con los pibes en la vereda, y si ya se esta escondiendo el sol, una de pomelo blanco para cortar el santa filomena.
 ![[Manaos.png]]

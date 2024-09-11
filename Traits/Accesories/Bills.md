@@ -1,2 +1,2 @@
-
+Mira como flexeo billetes de 1000 pesos bien crocantes, mira los uso de telefono jajajja no me compro ni un galaxy pocket con lo que hay aca son como 3 billetes de los verdes pero ni idea aguante flexear bro
 ![[Bills.png]]

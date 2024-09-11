@@ -1,2 +1,2 @@
-
+El carpincho actualmente se encuentra en una disputa legal con los chetos de Nordelta por la apropiación de sus tierras, en la pandemia recuperaron terreno, se los podía ver muy simpáticos a los locos tirados en las reposeras y bañándose en las lagunas de los countrys, ademas de ser macanudos son muy sabrosos, quedan muy buenas las empanadas de carpincho o una buena mila napo.
 ![[Carpincho.png]]

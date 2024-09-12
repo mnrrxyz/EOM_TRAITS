@@ -1,1 +1,2 @@
+Si tenes pensado venir para Argentina, no podes dejar de conocer el norte argentino, buena comida todo bien baratito y las mejores artesanias, te podes llevar un buen gorrito tejido a mano con lana da alpaca.
 ![[gorrito coya.png]]

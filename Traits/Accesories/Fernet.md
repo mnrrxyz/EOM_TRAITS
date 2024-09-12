@@ -1,3 +1,2 @@
-Un buen fernet se toma en botella y con mucho hielo, quizás la bebida alcohólica mas representativa del pais, ya es un culto debido a sus diversas formas de consumo y preparacion,
-
+Agarra la botella de la coca que te tomaste ayer, cortala a la mitad, con un encendedor calenta los bordes para que se curven y no cortarte, con el recipiente finalizado, le tiras unos buenos pedazos de hielo y el fernet por arriba, tenes que escuchar como el hielo cruje cuando le tiras el fernet arriba, despues inclinas un poco el vaso y le vas tirando la coca, que no te haga mucha espuma y listo, a disfrutar.
 ![[fernet.png]]

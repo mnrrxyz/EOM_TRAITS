@@ -1,1 +1,2 @@
+Vamos a esquiar al sur, la Patagonia tiene las mejores pistas de esqui del país, ni hablar de los paisajes que nos esperan, vamos a bajar el cerro catedral y después nos vamos a tomar unos mates a la orilla del Nahuel Huapi.
 ![[snow lents.png]]

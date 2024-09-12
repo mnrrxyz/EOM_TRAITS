@@ -1,1 +1,2 @@
+
 ![[cinta presidencial.png]]

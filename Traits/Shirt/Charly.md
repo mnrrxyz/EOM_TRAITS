@@ -1,1 +1,1 @@
-![[EOM_TRAITS/Imgs/Churri/Charly.png]]
+![[EOM_TRAITS/Imgs/Shirt/Charly.png]]

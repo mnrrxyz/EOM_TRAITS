@@ -1,2 +1,2 @@
-
+Pelo rubio bien cuidado, con su estilo noventero y un buen vestido paquete para ir a almorzar, se clavaba unos buenos lentes animal print como estos, por mas que afuera hagan 43 grados y el auto no tenga aire, las ventanillas cerradas que me despeino por favor, no podia faltar el labial color carmin en esos labios y un perfume frances bien fuerte, de esos que no te dejan respirar, que vieja coqueta que era mi abuela.
 ![[Vintage.png]]

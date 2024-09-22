@@ -1,1 +1,4 @@
+Salis a la calle y notas que en el aire hay algo distinto, el ambiente cambia, ves como la gente pasa por tu lado apurada, mirando el reloj, pendientes, como si su vida dependiera de ello, es lo que genera el mundial.
+no hay nada mas importante en ese instante que llegar puntual a la cita, giras la mirada a la vereda de enfrente y la imagen no es distinta, el quiosquero fastidioso, vendiendo un arlequin a un hombre de traje y corbata, el cual procede a irse rapidamente con una sonrisa de oreja a oreja, como si fuera un niño que acaba de comprarse ese juguete que hace años esta esperando, en eso pasa tu amigo en bici, quien te grita ¡dale Emilio apurate, que en 10 empieza el partido!  
+
 ![[gorrito argentina.png]]

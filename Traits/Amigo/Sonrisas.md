@@ -1,1 +1,3 @@
+Ir a comprar sonrisas era como jugar a la ruleta rusa, te podia tocar un paquete en excelentes condiciones, con el dulce y la masa bien blandita y bajarte el paquete en 1 minuto.
+O te podia tocar un paquete que en lugar de galletitas tenga adentro rompa dientes, como en el paquete de surtidas, era mas facil comer una zapatilla que esas sonrisas, el dulce reseco era imposible de masticar, se podia usar como arma.
 ![[Sonrisas.png]]

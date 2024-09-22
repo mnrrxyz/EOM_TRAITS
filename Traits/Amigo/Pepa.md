@@ -1,2 +1,3 @@
-
+De wachin era una actividad del carajo la merienda. Una chocolatada con 5 cucharadas de cacao y unos consistentes grumos, acompañada de un paquete de pepas, meter la mano en el paquete deparaba una loteria, en la cual lo único que esperabas era sacar la pepa con la mayor cantidad de dulce de membrillo en todo el paquete, porque desde el otro lado de la mesa tu vieja te decía que no se elijen las galletitas.
+Ya echada la suerte, mordisqueas los bordes como una rata, llenando todo de migas, para dejar en solitario el dulce de membrillo con una leve capa de galletita por debajo, logrando asi una merienda de 3 estrellas michelin 
 ![[Pepa.png]]

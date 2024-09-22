@@ -1,2 +1,3 @@
-
+Las comidas sencillas suelen ser las mas ricas, sino como se explica que un pedazo de masa rellena pueda dar lugar a variedad de manjares?
+de humita, carne o pollo, capresse, cebolla y una infinidad de sabores para los mas aventureros, la empanada tuvo un lugar privilegiado a la hora de observar la historia argentina, siempre estuvo ahí y siempre lo va a estar, fiel para vos cuando estes re cagado de hambre esperando  por vos, re cagado de hambre en la fila para el bondi giras la cabeza y divisas el disco mas mugriento y con el aceite quemado a un nivel insalubre, acompañado de un cartón que hace de cartel con la palabra "empanadas" escrito con fibron, bajo una reluciente bandejita con las mejores empanadas fritas que viste en mucho tiempo.
 ![[Empanada.png]]

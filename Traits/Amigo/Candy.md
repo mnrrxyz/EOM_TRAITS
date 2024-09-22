@@ -1,2 +1,2 @@
-
+De textura chiclosa y con sabor a tutifruti era todo un desafio consumirlo, abriendo la boca hasta que se disloque la mandubila y con un posterior mordiscón que no pegas ni estando de bajando, el cual lo único que logra es un bolido chicloso y lleno de saliva mientras seguis masticando, rogando que no se te caiga la baba.
 ![[flynpaf.png]]

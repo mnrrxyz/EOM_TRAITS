@@ -1,1 +1,4 @@
+Myriam Alejandra Bianchi, conocida como Gilda, fue una cantante y compositora argentina, nacida el 11 de octubre de 1961 en Buenos Aires. Originalmente maestra jardinera, se convirtió en una figura icónica de la cumbia tropical durante su corta pero exitosa carrera de seis años. Gilda popularizó el género en los años 90 con álbumes como De corazón a corazón y Corazón valiente.
+
+Su trágica muerte en un accidente de tránsito el 7 de septiembre de 1996, en pleno apogeo, la transformó en un ícono popular, venerada como santa por muchos. En el lugar del accidente, en Entre Ríos, se construyó un santuario que es visitado por devotos. A pesar de su fallecimiento, su legado perdura con álbumes póstumos y una película biográfica protagonizada por Natalia Oreiro en 2016.
 ![[Gilda.png]]

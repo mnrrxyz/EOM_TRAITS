@@ -1,2 +1,3 @@
-
+Historia de idas y vueltas la de YPF y el país, fundada en 1928 Yacimientos Petrolíferos Fiscales fue una empresa importante en la construcción de Argentina como nación, como su nombre indica es la pata que se encarga de la energía en el país.
+malos manejos, privatizaciones y posteriores compras y expropiaciones, perdiendo juicios y teniendo que pagar mas que el valor de la propia empresa, YPF es una fiel representación de lo argentino. 
 ![[piluso ypf.png]]

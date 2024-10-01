@@ -1,1 +1,4 @@
+Se acerca el invierno en la argentina, año 94, con el mundial a la vuelta de la esquina y un buen pasar en el país, no hay mejor plan que subirse a un avión y arrancar para los Estados Unidos. calorcito, te clavas una bermuda y entre partido y partido metes playita y conoces los parques en la florida.
+Lamentablemente un escenario tan perfecto no puede durar tanto tiempo, desde la expulsion de diego en el mundial la Argentina fue en declive y se volvió perdiendo en octavos de final con Rumania, mientras que Brasil se consagro campeón del certamen ganándole a Italia por penales y consiguiendo su 4to campeonato del mundo.
+
 ![[usa94_cap.png]]

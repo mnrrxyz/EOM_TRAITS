@@ -1,1 +1,3 @@
+En las elecciones presidenciales de Argentina de 1995, Carlos Menem fue reelegido como presidente. Su campaña se centró en la continuidad del proyecto y destacó su figura personal, evitando la iconografía clásica del Partido Justicialista. 
+Menem, respaldado por una coalición de partidos liberal-conservadores de centro-derecha, venció en primera vuelta al también peronista José Octavio Bordón, candidato del Frente País Solidario (FREPASO). Estas elecciones marcaron el fin del bipartidismo peronista-radical, con la Unión Cívica Radical relegada al tercer lugar. La reforma constitucional de 1994 permitió la reelección y estableció nuevas reglas electorales, incluyendo el acortamiento del mandato a cuatro años y la posibilidad de balotaje.
 ![[menem.png]]

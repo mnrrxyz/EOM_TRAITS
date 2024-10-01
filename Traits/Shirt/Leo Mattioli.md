@@ -1,1 +1,2 @@
+Leo Mattioli (1972-2011) fue un cantante y compositor argentino, conocido como uno de los máximos exponentes de la cumbia romántica. Comenzó su carrera a los 20 años en el Grupo Trinidad, pero tras un grave accidente en 2000, que le causó dolor crónico y la muerte de dos compañeros, decidió lanzarse como solista. Su carrera como "El León Santafesino" estuvo marcada por el éxito, pero también por recurrentes problemas de salud. Falleció el 7 de agosto de 2011, a los 38 años, debido a un paro cardiorrespiratorio en Necochea.
 ![[leo matioli bueno.png]]

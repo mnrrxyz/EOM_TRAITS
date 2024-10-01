@@ -1,1 +1,4 @@
+2 Minutos es una banda argentina de punk rock formada en 1987 en Valentín Alsina, Buenos Aires. Conocidos por su lírica enfocada en temas barriales como el alcohol, delincuencia, problemas con la policía y el fútbol, están identificados con el subgénero oi! punk. En 1994 lanzaron su primer disco, Valentín Alsina, un éxito que vendió 50.000 copias, destacándose por su crítica social y temas emblemáticos como "Ya no sos igual".
+
+La banda ha teloneado a Motörhead y Ramones, y fue la primera banda argentina en tocar en el mítico CBGB de Nueva York. Entre sus álbumes más notables están Volvió la alegría, vieja! (1995) y Postal 97 (1997).
 ![[2 minutos.png]]

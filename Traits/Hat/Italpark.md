@@ -1,1 +1,8 @@
+El Italpark supo ser el parque de diversiones mas grande de America del Sur, inaugurado en 1960, vio su cúspide en la década del 80. se encontraba en el barrio de recoleta, entre las avenidas del Libertador y Callao.
+Poseía unos treinta y cinco juegos electromecánicos que fueron importados de Italia, de ahí su nombre. Los complementaban una veintena de stands con atracciones.
+Contaba con la montaña rusa mas grande de sudamerica, traída de Holanda en el año 1979.
+El parque fue de gran importancia cultural en su momento, tanto para la gente como para la ciudad.
+Ya entrada la década del 90 la situación económica del parque no era la mejor, cosa reflejada en el mal mantenimiento de las atracciones, en horas de la tarde del 29 de julio de ese año, ocurrió un accidente en uno de los juegos del parque, el Matter Horn, inaugurado en 1983 y sin controles eficientes desde entonces. En ese accidente perdió la vida una adolescente de 15 años, Roxana Alaimo. La amiga que la acompañaba terminó en el hospital con heridas graves pero sobrevivió.
+Luego de este siniestro, la Justicia dispuso la clausura preventiva del Italpark y se sucedieron los trabajos de inspección y reparación, con el fin de la pronta reapertura del complejo, situación frustrada con la clausura definitiva del predio.
+El 10 de febrero de 1997 la Justicia porteña determinó que Italpark debería indemnizar a los padres de la chica fallecida en el accidente. La empresa de seguros Caledonia se hizo cargo del pago de 520 000 pesos convertibles (equivalente a 520 000 dólares de 1997) a la madre de Roxana Celia Alaimo.
 ![[gorra italpark.png]]

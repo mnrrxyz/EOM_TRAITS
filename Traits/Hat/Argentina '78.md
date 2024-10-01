@@ -1,1 +1,4 @@
+En el año 1978 Argentina es anfitrión de la copa del mundo y el mundo pone sus ojos sobre el pais, Argentina logra su primer campeonato mundial ganandole en la final a Holanda por 3-1.
+Mas alla de la consagración del pais ese mundial estuvo rodeado de polemicas como el 6-0 a peru, Argentina nesecitaba ganar por una diferencia de 4 goles para pasar de ronda, rumores de arreglos rodean a ese partido.
+El mundia del 78 fue con un gobierno de facto en el poder, miles de rumores hay al respecto, desde una pantalla para mostrar lo bien que esta el pais hasta imagenes de las familias tratando de visibilizar la situacion real.
 ![[gorra mundial 78.png]]

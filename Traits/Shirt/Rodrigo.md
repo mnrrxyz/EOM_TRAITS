@@ -1,1 +1,4 @@
+Rodrigo Alejandro Bueno, conocido como el Potro Rodrigo, fue un destacado cantante argentino de cuarteto, nacido el 24 de mayo de 1973 en Córdoba. Desde joven, mostró talento musical y grabó su primer disco a los cinco años. Su carrera despegó en 1987 con "La foto de tu cuerpo," y alcanzó fama nacional con álbumes como "Lo mejor del amor" y "A 2000," vendiendo más de 5 millones de discos.
+
+Rodrigo tuvo una agenda intensa, realizando entre 25 y 30 espectáculos semanales, lo que afectó su salud y aumentó su estrés. El 24 de junio de 2000, tras un concierto, sufrió un accidente automovilístico en el que perdió la vida. Su muerte generó conmoción en Argentina y especulaciones sobre un posible asesinato. El conductor del otro vehículo fue absuelto en un juicio, pero años después fue hallado muerto en circunstancias extrañas.
 ![[Rodrigo_tshirt.png]]

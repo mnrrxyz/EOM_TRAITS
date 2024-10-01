@@ -1,1 +1,3 @@
+Cablín, el primer canal exclusivo para niños de América Latina, nació en 1988 y fue un éxito en los años 90.
+Con una estética innovadora, Cablín revolucionó la forma en que los niños veían televisión, ofreciendo programación 24 horas y un enfoque creativo sin restricciones. Los productores, como Mario Pinto y Ricky Cavanna, priorizaron la calidad de contenido sobre la publicidad, creando programas memorables como "Consejos útiles" y "Tarascón". A pesar de su popularidad, Cablín fue absorbido por competidores en 1998 y cerró en 2001, pero su legado perdura en la memoria de quienes crecieron con él.
 ![[cablin.png]]

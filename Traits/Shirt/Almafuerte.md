@@ -1,1 +1,3 @@
+Almafuerte fue una banda argentina de heavy metal y hard rock fundada en 1995 por Ricardo Iorio tras la disolución de Hermética.
+Nombrada en honor al poeta Pedro Bonifacio Palacios, Iorio decidió ser el cantante y bajista, junto a Claudio Marciello en la guitarra y varios bateristas a lo largo de su trayectoria. Publicaron su álbum debut, Mundo guanaco, en 1995 y lanzaron un total de ocho discos de estudio, destacándose Toro y pampa en 2006. En 2012 publicaron su último álbum, Trillando la fina. En 2016 anunciaron su retiro de los escenarios, y en 2017 Iorio confirmó la disolución definitiva del grupo.
 ![[alma fuerte.png]]

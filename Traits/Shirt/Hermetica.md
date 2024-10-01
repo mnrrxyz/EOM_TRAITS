@@ -1,1 +1,4 @@
+Hermética fue un influyente grupo argentino de thrash metal, fundado en 1988 por Ricardo Iorio tras la disolución de V8.
+Reconocido como un pilar del heavy metal en Latinoamérica, Hermética formó su primera alineación con Antonio Romano, Claudio O'Connor y Fabián Spataro, quien fue reemplazado por Tony Scotto. Su álbum debut, "Hermética", se lanzó en 1989, seguido por el exitoso "Ácido argentino" en 1991, que consolidó su popularidad.  
+En 1994, lanzaron "Víctimas del vaciamiento", que recibió disco de oro y marcó su mayor auge, participando en festivales como el Monsters of Rock. Sin embargo, la banda se separó en diciembre de 1994 debido a conflictos internos. Tras la disolución, Iorio formó Almafuerte, mientras que O'Connor, Romano y Strunz crearon Malón.
 ![[hermetica.png]]

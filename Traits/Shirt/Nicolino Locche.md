@@ -1,1 +1,3 @@
+Nicolino Locche (1939-2005) fue un boxeador argentino, famoso por su habilidad defensiva, considerado uno de los mejores en la historia del boxeo. 
+Apodado "El Intocable", se destacó por esquivar golpes con facilidad y su estilo único dentro del ring. Se consagró campeón mundial en la categoría superligero al vencer a Takeshi Fuji en 1968 en Tokio, reteniendo el título hasta 1972. Fue un ícono del boxeo argentino, junto a figuras como Carlos Monzón y Pascual Pérez, y atrajo a un público femenino por su estilo espectacular. Fue incluido en el Salón Internacional de la Fama del Boxeo en 2003.
 ![[Nicolino_tshirt.png]]

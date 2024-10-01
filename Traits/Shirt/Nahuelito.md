@@ -1,1 +1,3 @@
+El Nahuelito es una criatura acuática que, según se cuenta, habita en el lago Nahuel Huapi en la Patagonia argentina. 
+Similar al famoso "Nessie" del lago Ness en Escocia, su existencia no ha sido confirmada, aunque ha habido reportes y fotografías de avistamientos desde principios del siglo XX. La leyenda del Nahuelito tiene raíces en relatos indígenas previos a la conquista de América. En 1922, el Dr. Clemente Onelli organizó una expedición para buscar al Nahuelito, pero no tuvo éxito. A lo largo de los años, diversas teorías han intentado explicar su existencia, incluyendo la posibilidad de que sea un animal prehistórico o una mutación.
 ![[Nahuelito_tshirt.png]]

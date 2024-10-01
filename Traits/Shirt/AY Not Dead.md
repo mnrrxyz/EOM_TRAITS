@@ -1,1 +1,4 @@
+Alfredo Yabrán (1944-1998) fue un empresario argentino vinculado al gobierno de Carlos Menem. Nació en Larroque, Entre Ríos, y se trasladó a Buenos Aires en los años 60, donde se destacó en seguridad y logística, siendo uno de los principales accionistas de OCA S.A.
+
+Ganó notoriedad tras acusaciones del exministro Domingo Cavallo, quien lo describió como un "líder mafioso" con protección política. Yabrán fue vinculado al asesinato del periodista José Luis Cabezas, lo que lo obligó a salir a la luz pública. Cuando se emitió una orden de arresto en su contra, se suicidó en 1998, aunque las circunstancias de su muerte han generado teorías y dudas sobre un posible montaje. Su legado sigue siendo objeto de controversia y especulación en Argentina.
 ![[AY_not_dead.png]]

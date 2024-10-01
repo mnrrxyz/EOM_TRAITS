@@ -1,1 +1,4 @@
+La boina es un sombrero estrechamente relacionado con los gauchos en el país, ya que su confección de copa baja y ala ancha y plana era muy útil para que los vientos pampeanos o la agitación del galope no se los llevaran.
+Los vascos que llegaron a trabajar al campo argentino introdujeron sus prácticas y usos. Esta era la puerta de entrada de la boina. Por lo menos, desde el río, desde el puerto. Pero semeja que desde la sierra, desde los Andes, las coordenadas de origen cambiaron un tanto: del País Vasco a Galicia. Ya que resulta que, en Chile, la boina acusa su llegada desde la colonización gallega de Chiloé, desde 1575, siendo los chilotes que habrían de llegar a la pampa argentina en el siglo XX los responsables de “instituirla” en los campos Del sur.
+
 ![[boina.png]]

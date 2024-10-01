@@ -1,1 +1,2 @@
+Viejas Locas fue una banda de rock argentina de los años 90, influenciada por los Rolling Stones y el blues, convirtiéndose en una de las principales dentro del "rock stone". En su auge en el 2000, la banda se separó, dando lugar a otros proyectos como Intoxicados y Motor Loco. Regresaron en 2009 con un concierto en el estadio de Vélez Sársfield. Desde 2013, Cristian Álvarez lideró el grupo como único miembro original, hasta que la actividad de la banda terminó en 2018 con su encarcelamiento.
 ![[viejas locas.png]]

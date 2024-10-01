@@ -1,1 +1,4 @@
+El Quinto Escalón fue una destacada competencia de batallas de freestyle organizada en Parque Rivadavia, Buenos Aires, desde 2012 hasta 2017. Fundada por YSY A y Muphasa, se convirtió en un referente del rap en Argentina, Latinoamérica y España. Lo que comenzó como un evento local, gratuito y en plazas, se transformó en un fenómeno cultural que impulsó a varios artistas emergentes.
+
+Inspirada por la escena del hip-hop argentino y competencias previas como la Red Bull Batalla de los Gallos y Halabalusa, El Quinto Escalón atrajo a miles de jóvenes y consolidó figuras como Duki, Wos, Acru, entre otros. Con el tiempo, creció en popularidad, hasta celebrar su última edición en el Microestadio Malvinas Argentinas en 2017.
 ![[quinto escalon.png]]

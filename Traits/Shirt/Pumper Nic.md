@@ -1,1 +1,4 @@
+Pumper Nic fue una cadena argentina de comida rápida popular entre los años 1980 y principios de 1990, operando desde 1974 hasta 1999. Fundada por Alfredo Lowenstein, se expandió rápidamente, convirtiéndose en la primera cadena argentina de comida rápida, con más de 70 locales. Su menú incluía productos como el sándwich Mobur y las papas fritas Freny's, con el eslogan "La nueva forma de comer."
+
+Aunque inicialmente exitosa, Pumper Nic enfrentó problemas de gestión y competencia de multinacionales como McDonald's y Burger King, que eventualmente llevaron a su declive. Tras una demanda de Burger King, debió modificar su logo y nombre. La empresa fue heredada por los hijos de Lowenstein en 1990, pero no pudieron salvarla, y la cadena cerró en 1999 después de declararse en bancarrota.
 ![[pumper nic.png]]

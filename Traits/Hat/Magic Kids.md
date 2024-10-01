@@ -1,1 +1,4 @@
+Magic Kids fue un canal para niños creado por Pramer y Cablevisión, basado en The Big Chanel.
+Comenzó a transmitir el 12 de enero de 1995 y rápidamente el canal se convirtió en uno de los mas vistos de la época, con programas importados comos los Power Rangers, x-men o Spider Man.
+Asi Magic Kids comenzó con la producción de programas propios, como a jugar con Hugo o Nivel x. En 2001 la señal se lanzo para america latina, pero por la crisis de diciembre de esa año se vio obligada a replegarse nuevamente, luego de varios intentos sin éxito la señal dejo de transmitir el 24 de mayo de 2006, aunque la marca que dejo con sus programas quedo para siempre.
 ![[magic kids gorra.png]]

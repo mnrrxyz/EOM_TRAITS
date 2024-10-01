@@ -1,2 +1,2 @@
-
+Gorra de cobani, inspiracion para miles de canciones y frases , simbolo de lo que deberia ser justicia y orden, poco de esas palabras representa dicha insignia, sobre todo a fines de la decada de los 70s y principio de los 80s, epoca que marco para siempre la historia del pais y la relación de la gente con las fuerzas de seguridad.
 ![[gorra policia.png]]

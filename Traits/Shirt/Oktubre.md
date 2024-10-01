@@ -1,1 +1,6 @@
+Oktubre es el segundo álbum de estudio de la banda argentina Patricio Rey y sus Redonditos de Ricota, lanzado en octubre de 1986. El álbum marca un cambio de sonido respecto a su predecesor Gulp!, incorporando influencias del new wave y post-punk, con una narrativa distópica inspirada en revoluciones sociales, la Guerra Fría y la transición democrática en Argentina.
+
+El arte de tapa, diseñado por Rocambole, toma inspiración de la Revolución rusa de 1917, con elementos simbólicos como la catedral de La Plata en llamas. En 2007, Oktubre fue clasificado como el cuarto mejor álbum de rock argentino por la revista Rolling Stone.
+
+El álbum fue grabado entre agosto y septiembre de 1986 en el estudio Panda, y contó con colaboraciones como Daniel Melero en teclados. Fue presentado en vivo en Paladium en dos conciertos en octubre. Tras la salida de dos miembros, la banda incorporó a Walter Sidotti en batería y Sergio Dawi en saxofón, pero decidió no reemplazar al tecladista Andrés Teocharidis, quien falleció en un accidente.
 ![[oktubre.png]]

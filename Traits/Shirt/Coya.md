@@ -1,1 +1,4 @@
+El "sweater Coya" es una prenda inspirada en la cultura andina, conocida por sus patrones coloridos y su confección en lana de alpaca o oveja, lo que proporciona calidez y durabilidad. Estos sweaters suelen presentar diseños geométricos o motivos naturales, y cuentan con cortes sueltos, ideales para climas fríos.
+
+El término "Coya" tiene un origen complejo. Se refiere a un campamento y un río en Machalí, Chile, y su significado se vincula a varias teorías. Una de ellas cuenta la historia de un indígena auca que se ahorcó tras la exterminación de su pueblo. Otra teoría se relaciona con Doña Clara Beatriz Coya, esposa del gobernador español Martín García Oñez de Loyola. Además, "Coya" está asociado con "Colla" en quichua, que designa comunidades y yacimientos de metales preciosos, especialmente oro.
 ![[coya buzito.png]]

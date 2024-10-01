@@ -1,1 +1,5 @@
+Gustavo Cerati fue un influyente músico, cantautor y productor argentino, conocido internacionalmente como el líder de la banda Soda Stereo.
+Inspirado por bandas británicas como The Beatles y The Police, Cerati fundó Soda Stereo en 1982 y alcanzó la madurez musical con discos como Signos (1986) y Canción animal (1990). Paralelamente, exploró la música electrónica en su carrera solista y proyectos alternos.
+
+Tras la separación de Soda Stereo, Cerati lanzó exitosos álbumes como Bocanada (1999) y Ahí vamos (2006). En 2010, sufrió un accidente cerebrovascular que lo dejó en coma hasta su fallecimiento en 2014. A lo largo de su carrera, vendió más de siete millones de discos y colaboró con artistas como Charly García y Shakira. Fue reconocido por medios como Rolling Stone y Billboard como uno de los mejores guitarristas y cantantes del rock.
 ![[Cerati_Jacket.png]]

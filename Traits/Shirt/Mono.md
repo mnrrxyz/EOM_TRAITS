@@ -1,1 +1,4 @@
+El mono Navarro Montoya, nacido el 26 de febrero de 1996 fue uno de los grandes arqueros que pasaron por el futbol argentino, debutando en el club Velez Sarfield gracias al coco Basile, quien le dio su primera oportunidad en primera el 14 de abril de 1984 conta Temperley, en 1988 el mono llegaría a Boca Juniors, donde tuvo el mejor momento de su carrera, disputando mas de 400 partidos y ganando 5 títulos con el club, siendo fugura en la Supercopa Sudamericana de 1989, en la serie de penales ante Independiente en la final.
+en 1997 se iría del xeneize siendo uno de los mejores arqueros en la historia del club hasta ese momento.
+
 ![[Mono.png]]

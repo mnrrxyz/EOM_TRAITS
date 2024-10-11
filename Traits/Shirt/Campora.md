@@ -1,1 +1,3 @@
+La Campora es una agrupación politica creada en el año 2006 en el gobierno de nestor Kirchner, como cualquier otra agrupación, la Campora nuclea un espectro de determinado sector político, en este caso es una agrupación peronista con su núcleo duro en el kirchnerismo, durante los gobiernos de los Kirchner dicha agrupación fue ganando poder y relevancia, a la vez que se iba radicalizando.
+
 ![[campora.png]]

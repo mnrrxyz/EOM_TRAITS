@@ -1,1 +1,3 @@
+A lo largo de los años, a medida que el automovilismo como disciplina fue ganando popularidad, el mismo se fue profesionalizando tanto en los vehículos como en las medidas de seguridad.
+un claro ejemplo son de los trajes que utilizan los pilotos, siendo que en la época de Fangio la vestimenta no era mas que una simple chomba y un pantalón, a dia de hoy se utiliza un traje ignifugo de excelente calidad plagado de sponsors.
 ![[tc jacket.png]]

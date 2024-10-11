@@ -1,1 +1,5 @@
+El 16 de marzo de 1812 se dio origen al regimiento de Granaderos a caballo, con Jose de San Martin como teniente coronel de caballería y comandante del regimiento.
+El 3 de febrero de 1813  el regimiento entra en la historia de la Patria, al mismo tiempo que el general san martin, con su victoria en solo 15 minutos en el combate de san lorenzo, dando cuerpo a la idea de la patria grande, con mas de 20 campañas en su espalda, desde Buenos Aires hasta Quito, con hazañas imposibles, como el paso por la cordillera de los Andes, fue sembrando a lo largo del camino los ideales de libertad y soberanía, luchando allí donde lo demande.
+
+En 1826 por orden de Rivadavia se disuelve el cuerpo de Granaderos, en 1898 vuelve a formarse y se convierte en custodia presidencial hasta la actualidad.
 ![[Granaderos_Uniform.png]]

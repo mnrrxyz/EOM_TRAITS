@@ -1,1 +1,3 @@
+Como su nombre indica, la principal función del Guardapolvo, es Guardar el polvo, y bien que logra su función, el primer dia de colegio llegas con tu guardapolvo bien blanco, casi brrilante y con olor a perfumina que le tiro tu vieja la noche anterior, en menos de un mes ese guardapolvo podría ser tranquilamente estudiado en un laboratorio por la cantidad de mugre que tiene, seguramente en una de esas manchas de dudoso color, se encuentre un nuevo virus viral con la capacidad de matar a toda la humanidad.
+Noble como pocos, el guardapolvo no solo guarda el polvo, sino también los mejores recuerdos y anécdotas de una epoca que recordas con melancolía.  
 ![[guardapolvo.png]]

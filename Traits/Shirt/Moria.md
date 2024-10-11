@@ -1,1 +1,3 @@
+Moria Casán (nacida en 1946) es una reconocida actriz, presentadora, exvedette y empresaria argentina. Ha sido una figura clave del teatro de revista y televisión en Argentina, destacándose en obras en Buenos Aires, Mar del Plata y Villa Carlos Paz, y ha trabajado internacionalmente en ciudades como Las Vegas y París. 
+También condujo programas de televisión y protagonizó películas. En 2005, fue candidata a diputada sin éxito. Es conocida por sus polémicas mediáticas y su apodo "La Lengua Karateca", debido a sus confrontaciones en el mundo del espectáculo.
 ![[Moria_tshirt.png]]

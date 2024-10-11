@@ -1,1 +1,5 @@
+Una fría mañana de invierno, Cayetano Santos Godino, mejor conocido como el "Petiso Orejudo" es despertado por el agudo chiflido del viento golpeando contra la pared de su celda, fastidioso, se ve obligado a levantarse, no pudo concretar tan apacible sueño, solo recuerda las llamas de ese vestido en una de sus victimas, y el cálido sonido a asfixia de su victima final, el joven Gesualdo de 3 años, quien el orejudo ato de pies y manos para luego ahorcarlo con su cuerda que hacia de cinturon, como no moria, termino de rematarlo con un clavo de 4 pulgadas y una piedra como martillo en la cien del machacho.
+una fuerte tormenta de nieve distrae a Cayetano de su tan acogedor recuerdo, corre el año año 1927 y ya van cuatro en el penal del fin del mundo, quizás el único digno de albergar semejante aberración, alejado de la sociedad, replegado en el mas crudo de los inviernos, es el sitio ideal para un amante del fuego.
+Muchas historias mas rodean al penal de Ushuaia, el cual cerro en 1947, pero fueron devoradas por el hermetismo de tan alejado lugar.
+
 ![[Jail.png]]

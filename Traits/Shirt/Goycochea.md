@@ -1,1 +1,5 @@
+El Goyco fue uno de los arqueros mas importantes en la historia de la selección argentina, su historia con la celeste y blanca empezó a formarse en el mundial de Italia 90, Goyco fue como suplente de Nery Pumpido, quien se lesiono en el segundo partido conta la URSS, desde ahí Sergio fue titular, siendo una pieza fundamental para que argentina llegue a la final atajando 2 penales contra Yugoslavia en cuartos de final y 2 contra Italia en semifinales, lamentablemente no corrio la misma suerte en la final, donde argentina perdió contra Alemania.
+
+Después de su actuación en el mundial, ganó las Copas América de 1991 y de 1993. En esta última, atajó penales clave en las definiciones ante Brasil en cuartos de final y ante Colombia en la semifinal, y fue elegido como el mejor jugador del torneo.
+
 ![[goyco.png]]

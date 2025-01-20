@@ -1,1 +1,8 @@
+El Club Atletico Boca Juniors es uno de los clubes mas grandes del continente y del mundo, Siempre plagado de estrellas como lo fue Maradona, Tevez y Riquelme entre muchos mas.
+
+fundado en el barrio de La Boca en 1905  es el único equipo Argentino en no conocer el descenso de categoría y disputar todas las temporadas en primera división desde el comienzo del profesionalismo en 1931 además de ser el equipo que mas partidos disputo en dicha categoría.
+Boca es uno de los equipos de futbol mas reconocidos y destacados a nivel mundial, contando con 74 títulos en total, siendo parte 18 títulos internacionales, se encuentra en el tercer lugar de los equipos mas ganadores junto al AC Milan de Italia e Independiente.
+Entre esos 18 títulos los mas destacados son sus 6 copas Libertadores que lo posicionan como el segundo equipo mas ganador de America y el que mas finales del certamen disputo, con un total de 12 y sus 3 finales intercontinentales ganadas, derrotando al Real Madrid de los galácticos en el 2000 y en 2003 al AC Milan de la mano de Carlos Bianchi como dt en ambas ocasiones. 
+
+No hay dudas de que el xeneize es uno de los clubes que mas pasión despierta en sus hinchas y es lo que mas grande lo hace, convirtiendo a La Bombonera en un destino turístico por el sorprendente ambiente que se vive dentro del estadio, donde la gente asegura que el estadio tiene vida y se mueve al compas de las trompetas de las 12.
 ![[boca 1.png]]

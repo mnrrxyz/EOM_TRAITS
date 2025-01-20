@@ -1,1 +1,7 @@
+Cuando se habla de Jose Luis Chilavert, se esta hablando de mucho mas que un arquero, Chila era un loco lindo, de esos que ya no quedan, dentro y fuera de la cancha, fuera por su picante personalidad y momentos como el escupitajo a Roberto Carlos dentro de la cancha, y a Martin Ciccioli en una nota.
+Pero mas allá de sus polémicas por su comportamiento, Chila revoluciono la posición de arquero, anotó 62 goles en su carrera, convirtiéndose en el segundo portero más goleador de todos los tiempos y el portero más goleador del mundo en su momento.
+Es el primer arquero en el mundo en hacer un gol de tiro libre, también anoto de penal y a mas de 60 metros de distancia bajo la lluvia, Jose Luis se dio el lujo de no solo ser el mejor arquero del mundo en 3 oportunidades (Reconocido por la IFFHS en 1995, 1997​ y 1998) sino también de ser un goleador.
+Pero donde Chilavert destaco  fue en Velez Sarfield, club donde el arquero es idolo.
+Con la llegada de Carlos Bianchi en 1993, Vélez Sarsfield ganó una seguidilla de títulos en los que Chilavert fue una de las principales figuras, no sólo por sus atajadas decisivas, sino también por sus goles y su influencia positiva en el plantel.
+En 1994, ganó la Copa Libertadores de América y la Copa Intercontinental con Vélez Sarsfield, en la recordada final frente al AC Milan que el equipo de Liniers ganó 2-0 con goles de Roberto Trotta y Omar Asad.
 ![[buzo chila.png]]

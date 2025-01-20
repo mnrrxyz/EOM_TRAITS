@@ -1,3 +1,3 @@
-Compañeros los esperamos este 18 de diciembre en la Plaza de los Dos Congresos para hacerle frente a este sistema capitalista que cada dia nos empobrece mas para hacerle frente al proyecto de reforma previsional, no permitamos que estos usureros nos roben un centimetro mas, trae tus molotov y morteros para luchar contra el neoliberalismo junto al partido obrero.
+Compañeros los esperamos este 18 de diciembre en la Plaza de los Dos Congresos para hacerle frente a este sistema capitalista que cada dia nos empobrece mas para hacerle frente al proyecto de reforma previsional, no permitamos que estos usureros nos roben un centímetro mas, trae tus molotov y morteros para luchar contra el neoliberalismo junto al partido obrero.
 Que la deuda la paguen los capitalistas!
 ![[gorra partido obrero.png]]

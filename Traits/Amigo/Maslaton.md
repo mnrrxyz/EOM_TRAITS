@@ -1,3 +1,4 @@
-Principal opositor a la cuarentena comunista del coronavirus establecida por el intendente sombrilla larreta, ademas de ser el primer forero de internet y el mismisimo satoshi nakamoto, carlos es un excelente analista de los mercados financieros y aventurero de la vida, como su escirla de una bomba indica.
-Super bullish en el pais yo, argentino. Como Carlos Maslaton.
+El abogado Carlos Maslaton, considerado por el mismo como el primer forero de internet, es una de las personalidades mas destacadas de twiter, con posteos que lo convirtieron en un meme, pero mas allá de su salto a la fama en 2020, cuando critico fuertemente a sombrilla Larreta por los encierros maoístas del coronavirus, Carlos es un excelente analista financiero y uno de los primeros en el país de poner interés en Bitcoin, trabajando en la tesoreria de Xapo, una de las empresas mas importantes dentro de la industria.
+Previamente Carlos formo parte activa de Patagon Argentina, que luego fue vendida al banco Santander, luego de dicha venta fue despedido, por lo cual Carlos fue a juicio en la corte de Nueva York, el juicio duro dos años y Carlos salió ganador del mismo.
+Ademas Carlos tuvo un rol activo en política, siendo concejal de la ciudad de buenos aires en los años 1987 y 1991, también fue el fundador de la unión para la apertura universitaria (UPAU)
 ![[Masla.png]]

@@ -1,2 +1,3 @@
-
+El tamagotchi fue la primer mascota virtual, creado en 1996 por Aki Maita y Bandai.
+Fue una de las primeras formas donde lo digital creaba un fuerte lazo con las personas, de ahí su éxito, ya que tenias una vida que cuidar, la cual tenias que alimentar, bañar, jugar y hacerla dormir, todo esto generaba un afecto real en los mas chicos por su mascota, por lo cual cuando moría podía ser angustiante para algunas personas, ya que tenias una vida en tus manos y la dejaste morir.
 ![[Tamagochi.png]]

@@ -1,2 +1,3 @@
-
+Era pleno 2007. La remera flúo, el flequillo tapando un ojo y la cámara colgando al pecho. Pasábamos horas en el ciber, actualizando Fotolog con esa foto perfecta, los comentarios en "F/F" y el ritual de encontrar el mejor espejo para practicar el baile del pasito.
+No era solo ropa ni música electrónica, era un grito de identidad, de marcar diferencia. El Abasto era territorio flogger, donde cada outfit era una declaración y la cámara capturaba la esencia de una época irrepetible.
 ![[Flogger.png]]

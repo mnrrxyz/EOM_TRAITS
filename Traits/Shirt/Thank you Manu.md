@@ -1,1 +1,8 @@
+Emanuel David Ginobili es uno de los mayores exponentes del deporte Argentino, nacido el 28 de julio de 1977 en Bahia Blanca, con un corto paso de solo 3 años en la Liga Nacional, Manu emigro al Bologna de Italia donde rápidamente destaco, fue asi como en 2002 llega a San Antonio Spurs, Donde jugo hasta su retiro en 2018.
+Con un inabarcable historial de títulos colectivos e individuales a sus espaldas, Manu logro sentarse en la mesa chica de la NBA, solo para citar un ejemplo, junto a Michael Jordan, Scottie Pippen y Lebron James, es el único jugador en ganar una medalla de oro olímpica y un campeonato de la NBA en la misma temporada. 
+El 10 de Abril de 2022 fue oficializada su inclusión al Hall of Fame en una ceremonia que se celebró por la NBA en Springfield, esa noche se convirtió en el primer argentino en llegar al Salón de la Fama del Baloncesto.
+Pero el hito mas destacado en su carrera fue sin dudas la actuación de la selección Argentina en los juegos olímpicos de Atenas 2004 donde promedio 19.3 puntos por partido, siendo el MVP del torneo.
+En dicho torneo, Manu se convirtió en el héroe del equipo argentino durante el primer juego, contra Serbia y Montenegro, anotando los dos puntos salvadores para Argentina a escasos segundos del final y dándole la victoria por apenas un punto a la selección argentina, tomándose revancha de la final perdida en 2002 ante el equipo europeo. La selección Argentina haría historia nuevamente derrotando una vez más, esta vez en semifinales, al combinado estadounidense por 89-81 con 29 puntos de Ginóbili, Finalmente Argentina ganaría la Medalla Dorada en la final ante Italia, Siendo argentina la única selección en ganar la medalla de oro en basket desde el 92.
+![[Medallero olimpico.png]]
+
 ![[Thank_you_manu.png]]

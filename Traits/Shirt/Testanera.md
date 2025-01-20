@@ -1,3 +1,3 @@
-Año 1986, el Diego viene de ganar el mundial con argentina y de ser figura en Napoli, cúspide de su carrera y de su fama mundial, se le pasa por la cabexa que quiere una Ferrari, pero no cualquiera una Testarossa y para colmo negra, cosa inconcebible para la marca, pero el Diego hay uno solo y despues de conversar con Enzo Ferrari, se logro que la Testarossa salga negra de fabrica.
+Año 1986, el Diego viene de ganar el mundial con argentina y de ser figura en Napoli, cúspide de su carrera y de su fama mundial, se le pasa por la cabeza que quiere una Ferrari, pero no cualquiera, una Testarossa y para colmo negra, cosa inconcebible para la marca, pero el Diego hay uno solo y despues de conversar con Enzo Ferrari, se logro que la Testarossa salga negra de fabrica.
 Lastima que semejante bicho no venga con radio, como va a escuchar a rodrigo el 10? rápidamente se canso y se fue a un auto con radio. 
 ![[Testanera maradona 1.png]]

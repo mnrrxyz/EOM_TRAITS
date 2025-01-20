@@ -1,2 +1,6 @@
-
+La Unión Cívica Radical (UCR) fue el primer partido político de la argentina, formado el 26 de junio de  1891 por Leandro Alem, surgió como respuesta en un contexto donde las elites, donde se encontraba Julio Argentino Roca quien gobernaba el país.
+ La presidencia del general Julio Argentino Roca (1880-1886) fue sucedida por la de su cuñado, Miguel Juárez Celman, cuyo gobierno se caracterizó por las denuncias de corrupción y autoritarismo; sus opositores llamaban a esa gestión como el Unicato.
+En el año 1890, la Unión Cívica, dirigida por Leandro Alem y Bartolomé Mitre encabezó el 26 de julio la llamada Revolución del Parque o Revolución del 90, un sangriento levantamiento armado que causó la caída del presidente Juárez Celman y su reemplazo por el vicepresidente Carlos Pellegrini.
+La UCR en aquellas épocas encabezaba el movimiento popular y representaba sus intereses, como el derecho al voto y mejores condiciones para el trabajador.
+A lo largo de la historia del país, la UCR a estado presente, siendo el partido político mas antiguo aun vigente en la actualidad, gobernando en 10 oportunidades el país y participando en otros gobiernos como el de Mauricio Macri.
 ![[UCR.png]]

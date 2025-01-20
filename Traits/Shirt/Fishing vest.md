@@ -1,1 +1,4 @@
+A veces la solución a todos los problemas se encuentra en el medio de un rio pescando con amigos, esa tranquilidad que transmite el campo, caminar kilómetros al lado de un arroyo buscando el pique, la sensación de que nada mas importa en ese momento que tu caña y los tuyos, ya sea desde el borde de un arroyo, a la orilla de un rio o desde el medio del lago arriba de un botecito, cuando uno se ve saturado y superado es momento de parar, porque en la inmensidad del rio la mente se vuelve calma y todo se ve con mas claridad.
+
+No te dejes caer en la tentación de +iq +riqueza, no te mates a vos mismo. 
 ![[Fishing_vest.png]]

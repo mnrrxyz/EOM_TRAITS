@@ -1,2 +1,2 @@
-
+Carlos "Indio" Solari no es solo un músico, es un ícono de una generación que encontró en su voz y sus letras un refugio de rebeldía. Como líder de Patricio Rey y sus Redonditos de Ricota, el Indio nos llevó a un viaje sonoro lleno de poesía cruda y un mensaje de resistencia. Tras la separación de la banda en 2001, su carrera en solitario siguió cautivando multitudes, con conciertos que se convertían en rituales.
 ![[Indio.png]]

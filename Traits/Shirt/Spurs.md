@@ -1,1 +1,2 @@
+San Antonio Spurs es uno de los equipos mas grandes de la NBA, con sede en Texas y 5 campeonatos, los Spurs son el equipo con el mejor ratio de victorias en la liga, pero sin dudas lo mas importante en la historia la franquicia, es haber contado con el mejor Argentino en la historia del Basquetbol, Emanuel David Ginobili.
 ![[manu spurs.png]]

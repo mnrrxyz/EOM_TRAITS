@@ -1,1 +1,5 @@
+El Club Atlético Newell's Old Boys fue fundado en el año 1903 en la ciudad de Rosario, es uno de los equipos con mas historia del futbol argentino llevando mas de 60 temporadas consecutivas en primera división en las cuales obtuvo 6 títulos de liga y sumando 9 títulos oficiales de la AFA.
+Es protagonista del clásico Rosarino contra central, para muchos considerado el mejor clásico del país por la pasión con la que lo viven los hinchas.
+Pero lo que hace grande al club es la excelencia de sus inferiores, siendo una de las mejores del país y sacando jugadores como Leo Messi, Gabriel Batistuta y Maxi Rodriguez entre otros.
+También hay que destacar el corto paso de Diego Armando Maradona en 1993, siendo su regreso al país después de su paso por el Sevilla de España, en su presentación se estima que hubo mas de 50mil hinchas en el estadio, siendo uno de los recibimientos mas grandes en la historia del futbol Argentino.
 ![[Newells_shirt.png]]

@@ -1,1 +1,9 @@
+Diego Maradona habló por primera vez en público sobre el tema drogas y confesó su adicción a la cocaína en enero de 1996, cuando tenía 35 años y era jugador de Boca. Lo hizo en la revista “Gente”,  que publicó sus impactantes declaraciones en dos partes, como suplementos especiales consecutivos. El largo e histórico reportaje hecho por la periodista Gabriela Cociffi, en ese entonces subdirectora de la revista, tuvo repercusiones en la mayoría de los medios más importantes del mundo. Diego habló porque había decidido ser la imagen de la campaña  “Sol sin drogas”, que el Gobierno de Carlos Menem lanzaba aquel verano, a través de la Secretaría de Programación para la Prevención de la Drogadicción y la Lucha Contra el Narcotráfico. La campaña consistía básicamente en pasear al futbolista por diferentes lugares del país para dar charlas a los chicos y contarles su propia experiencia con las drogas.
+
+La entrevista dejo frases muy fuertes dichas por el 10.
+
+“Ponía llave por todos lados. Tenía terror de pensar que mis hijas me pudieran ver. Estaba preparando y Dalma me golpeó la puerta así, mirá (imita el golpe) ‘¡Pa! ¿Puedo entrar?’. Eran como las cuatro de la mañana. No podía… no podía hablar (se toma la garganta) ¡Y no había tomado nada todavía! ¡No podía hablar! Me quedé tensionado. Tiré todo: ‘¡Sí mamita sí, sí!’. La senté en el baño. Me dice: ‘¿Qué te pasa, pa, que estás así y no dormís?’. Dalma era así. ‘No, mamita, no puedo dormir.’ Pero yo no podía más con mis nervios y empecé a hablarle sin parar. ¡No podía dejar de contarle cosas…! Es una sensación muy fea, muy fea…”.
+![[sol-sin-drogas-cuadro.jpg]]
+
+
 ![[Sol_sin_droga.png]]

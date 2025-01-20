@@ -1,2 +1,3 @@
-Si tenes pensado venir para Argentina, no podes dejar de conocer el norte argentino, buena comida todo bien baratito y las mejores artesanias, te podes llevar un buen gorrito tejido a mano con lana da alpaca.
+
+En los paisajes majestuosos de los Andes, el sombrero Coya, o montera, se erige como un símbolo de identidad y resistencia. Este accesorio tradicional, usado principalmente por las mujeres indígenas Quechua y Aymara de regiones como Bolivia, Perú y el norte de Argentina, no solo protege del sol abrasador y el frío intenso de la montaña, sino que lleva consigo una historia cargada de significado. Hecho de fieltro o lana, con su ala ancha y rígida, el sombrero no es solo una prenda; es una expresión de pertenencia, de raíces profundas en la tierra.
 ![[gorrito coya.png]]

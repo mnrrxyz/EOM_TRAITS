@@ -1,1 +1,2 @@
+
 ![[EOM_TRAITS/Imgs/Amigo/Hugo.png]]

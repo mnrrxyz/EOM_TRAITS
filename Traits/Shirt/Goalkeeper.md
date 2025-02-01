@@ -1,1 +1,4 @@
+Buzo utilizado por el arquero Luis Islas en el mundial 1994.
+
+En la selección nacional Islas fue el arquero titular del equipo subcampeón mundial juvenil en 1983, donde fue elegido como el tercer mejor jugador de la competencia. Debutó en la Selección Mayor en 1984 con tan solo 18 años. Luego, fue el segundo arquero durante el Mundial de México en 1986, en el que se consagró campeón. Atajó en las Copas América de 1987 y 1989. En 1988 fue titular en los Juegos Olímpicos de Seúl. En 1989 renunció a la selección antes del Mundial de Italia 1990, al no garantizarle el técnico Carlos Salvador Bilardo la titularidad. En 1992 volvió a la selección, formando parte de los planteles campeones de la Copa Confederaciones 1992 y Copa América 1993. Si bien Goycochea fue el primer arquero durante las eliminatorias del Mundial 1994, el técnico Alfio Basile resolvió darle la titularidad a Islas en la Copa Mundial de Fútbol de 1994.
 ![[goalkeeper.png]]

@@ -1,1 +1,2 @@
+El 14 de julio de 1996, el Boca de Bilardo le ganaba por 4-1 al flamante River campeón de América en la Bombonera, en una noche espectacular de Claudio Paul Caniggia, autor de tres goles. Una jornada que también quedó en la memoria por el festejo entre Cani y Diego en uno de los goles abrazo y pico.  Un beso histórico que varios años más tarde se convirtió en bandera y símbolo de lucha.
 ![[lgbt_tshirt.png]]

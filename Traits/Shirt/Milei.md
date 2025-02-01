@@ -1,1 +1,2 @@
+Durante toda su campaña política Milei utilizo prendas que ahora ya son icónicas, como su campera de cuero o su buzito under armor deportivo, el cual quedo inmortalizado en una de las notas mas vistas con Alejandro Fantino.
 ![[buzo milei.png]]

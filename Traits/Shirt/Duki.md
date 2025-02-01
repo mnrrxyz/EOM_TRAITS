@@ -1,1 +1,4 @@
+En el mundo de la musica, la vestimenta de los cantantes es algo que cambia constantemente, ya sea para un videoclip, un show o mismo como vestimenta personal, no se suele utilizar la misma prenda mas de dos veces.
+Pero con duki pasa algo especial, hay una prenda que cuando la ves es imposible no hacer la asociación con el artista, ese es el camperon del Milan.
+Desde que duki rapeaba en las plazas y empezó a cobrar relevancia, el camperon estuvo presente, inmortalizado en batallas como la de duki vs lit killah, esa prenda ya forma parte de la cultura del rap argentino y sobre todo en la historia de uno de sus máximos exponentes, ya que en el primer tema de duki (no vendo trap) el camperon también dice presente, esa simple tela representa una etapa importantísima en la musica argentina.
 ![[Duki_Jacket.png]]

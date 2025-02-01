@@ -1,1 +1,10 @@
+Racing Club, conocido popularmente como la Academia fue fundado como club de fútbol el 25 de marzo de 1903 y desde 1937 es considerado por la prensa especializada como uno de los cinco grandes del fútbol argentino, junto a Boca Juniors, River Plate, Independiente y San Lorenzo.
+
+El 29 de agosto de 1967, Racing ganó la Copa Libertadores más extensa de la historia, acumulando 32 puntos en 20 partidos. En la final, enfrentó a Nacional de Uruguay, con dos empates 0–0 en los juegos de ida y vuelta, y una victoria 2–1 en el desempate disputado en Santiago de Chile.
+
+El 4 de noviembre de 1967, Racing se consagró campeón del mundo al ganar la Copa Intercontinental frente al Celtic de Escocia. Tras una derrota 1–0 en Glasgow y un triunfo 2–1 en Avellaneda, el partido definitorio se disputó en el estadio Centenario de Montevideo, donde un gol de Juan Carlos Cárdenas desde fuera del área aseguró la victoria por 1–0 y el primer título mundial para un club de Argentina.
+
+Durante las controvertidas presidencias de Juan De Stéfano (1987-1995) y Osvaldo Otero (1995-1998), Racing Club enfrentó una crisis económica sin precedentes debido a gastos excesivos y desvíos de fondos. La situación empeoró año tras año, llevando al club al borde de la quiebra. El 10 de julio de 1998, el entonces presidente Daniel Lalín solicitó la quiebra del club al no poder hacer frente a las abrumadoras deudas.40​
+
+El 4 de marzo de 1999, se emitió un comunicado oficial anunciando la supuesta «desaparición de Racing Club», pero la presión de los hinchas logró evitar la quiebra y salvó al club. El 7 de marzo de 1999, los hinchas se autoconvocaron para exigir la implementación de «La Ley de Fideicomiso», lo que contribuyó a salvar al club de la crisis financiera. El 29 de diciembre de 2000, Racing Club fue gestionado por Blanquiceleste Sociedad Anónima, liderada por el empresario Fernando Marín, con un proyecto para sanear las finanzas y pagar la deuda en un plazo de 10 años.
 ![[Racing.png]]

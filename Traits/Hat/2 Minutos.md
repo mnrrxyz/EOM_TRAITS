@@ -1,1 +1,5 @@
+Pilar de la escena punk argentino, los 2 Minutos fueron la primera banda argentina que se presentó en el mítico CBGB, de Nueva York.
+Los orígenes de la agrupación, se remontan a mediados de 1987, en la ciudad de Valentín Alsina, formada por Walter Velazquez (Voz) Alejandro Ainadijan (Bajo) Pablo Coll y Alejandro Mirones (Guitarra) y Monty Montes (Batería).
+Tras realizar presentaciones por todo Buenos Aires y grabar material de forma independiente, en 1994 editan su primer trabajo discográfico, titulado Valentín Alsina, en homenaje a su ciudad de origen. La mayoría de las composiciones de sus canciones hablaban del barrio, de la realidad del trabajador abrumado por los bajos salarios, las extensas horas de trabajo y la necesidad de salir del sistema opresor.
+La banda fue de las exitosas del país debido a que representaba a la perfección la actualidad de la gente, quien se veía fuertemente afectada por la situación económica de la Argentina. 
 ![[gorrito 2 minutos.png]]

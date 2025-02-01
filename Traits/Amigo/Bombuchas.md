@@ -1,2 +1,2 @@
-
+Arma letal utilizada en carnavales y festividades del pueblo, la preparación del proyectil consta de llenarlos de agua cuidadosamente, atarlos sin romper el delicado pico de la bombucha e ir depositándolos en un tacho lleno de agua para su posterior uso, hay que tener cuidado con los proyectiles defectuoso, ya que pueden explotar en la mano y ser la burla de la jornada.
 ![[Bombuchas.png]]

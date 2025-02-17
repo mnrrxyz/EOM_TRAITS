@@ -1,1 +1,3 @@
+ El cielo de Nápoles capturado en tela, un azul eterno que ondea como bandera en la memoria del fútbol. No es solo una remera, es la armadura que utilizo quien escribió un pedazo de la historia con gambetas y goles inolvidables. Un estandarte que lleva el peso de hazañas épicas y noches de gloria. Cada hilo de esta prenda está tejido con el recuerdo de un 10 que convirtió los sueños en realidad, de una ciudad que encontró en el fútbol su redención y de una hinchada que alienta como si la vida dependiera de ello. Ponértela es sentir el fuego de San Paolo, es correr por la banda con el alma en los botines, es entender que el fútbol, cuando es pasión, trasciende el tiempo y el espacio.
+
 ![[Napoli_Kit.png]]

@@ -1,1 +1,2 @@
+Después de salir campeón del mundo con argentina en 2022, Messi subió a Instagram una de las fotos mas likeadas de la plataforma, donde se puede ver al 10 despertándose con un matecito y la copa mas linda de todas al lado.
 ![[messi cama.png]]

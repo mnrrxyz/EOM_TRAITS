@@ -1,2 +1,2 @@
-
+Forjado en la paciencia y compartido en la confianza, este mate es mucho más que una simple infusión. Es el lazo invisible que une almas en ronda, el testigo silencioso de conversaciones eternas y el guardián entre la vigilia y el descanso. Un sorbo, y el mundo retoma su cauce.
 ![[Mate ultimo.png]]

@@ -1,1 +1,2 @@
+Campera deportiva de poliéster con cierre frontal, corte estándar y mangas con las clásicas tres franjas blancas a los costados. Su tela liviana y transpirable permite un uso cómodo en actividades físicas o como prenda casual. 
 ![[green_jacket.png]]

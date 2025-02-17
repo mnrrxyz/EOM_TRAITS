@@ -1,2 +1,2 @@
-
+Alla por marzo del 2000, mientras se hospedaba en el hotel Aconcagua de Mendoza, Charly Garcia fue autor de una de las hazañas mas recordadas de su carrera, cuando decidió saltar desde el balcón del noveno piso hasta la pileta del hotel, mientras las cámaras de televisión lo grababan. "Lo hice muchas veces. Me gusta tirarme. Primero sentí un vació y después el agua mojada" fueron las primeras palabras a los periodistas que lo entrevistaban desde fuera de la pileta.
 ![[Charly 1.png]]

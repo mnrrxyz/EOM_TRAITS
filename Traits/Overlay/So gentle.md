@@ -1,4 +1,5 @@
-magaiba so gentle so good
+Magaiba es amigo de Emilio.
 
-memes? que mas
+So gentle, so good.
+
 ![[So gentle.png]]

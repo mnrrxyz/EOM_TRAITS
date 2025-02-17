@@ -1,2 +1,3 @@
-
+La damajuana, ese objeto de vidrio que parece contener más de lo que refleja. 
+En su interior, la luz parece rendirse ante la oscuridad de su contenido, como si todo lo que ha sido vertido en ella se disolviera en la vastedad de lo incierto. No es simplemente una botella, sino un universo comprimido, un universo repleto de historias y cuentos, de pulperías perdidas en medio de la llanura pampeana, esperando ser consumida por el próximo gaucho sediento de propósito que entre por la puerta.
 ![[Damajuana.png]]

@@ -1,3 +1,5 @@
+Emilio te invita a festejar su primer roundtripeada!
+trae tu gorrito del rayo y veni a ver como el market se va a 0 con todos los anons de internet. 
+no faltes!!
 
-Mira Emilio tengo el gorrito del rayo, soy rapidísimo no me alcanza nadie, carrera hasta la mesa el que llega primero se queda con el sanguchito de miga.
 ![[gorrtio cumple mcquen.png]]

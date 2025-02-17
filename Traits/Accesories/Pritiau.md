@@ -1,2 +1,2 @@
-
+Un brebaje nacido de la sabiduría popular, donde el vino tinto se abraza con la gaseosa en un equilibrio perfecto de frescura. Cada trago es un homenaje a la magia de transformar lo simple en sublime.
 ![[Pritiau.png]]

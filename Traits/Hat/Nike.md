@@ -1,1 +1,2 @@
+si estas caminando por el conurbano bonaerense a eso de las 3am, lo ultimo que te queres cruzar es un individuo de tez morena con una gorrita de estas, te roba o es un consumidor cronico de alguna sustancia que viene a pedirte plata.
 ![[gorrita nike.png]]

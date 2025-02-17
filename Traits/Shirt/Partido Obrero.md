@@ -1,1 +1,2 @@
+Con su vibrante rojo revolucionario y su inscripción inconfundible, si quieres hacer la revolución socialista no te puede faltar tu remera del partido obrero para ir a la marcha contra el FMI.
 ![[partido obrero.png]]

@@ -1,2 +1,7 @@
+El caso de Omar Carrasco (5 de enero de 1976-6 de marzo de 1994) tuvo un alto impacto en la sociedad argentina de aquel momento, donde el servicio militar en el país aun era obligatorio.
 
+Carrasco fue un joven que al cumplir los 18 años fue convocado para realizar el servicio militar y asignado al Grupo de Artillería 161, de la localidad de Zapala, Neuquen. Se incorporó al regimiento el 3 de marzo de 1994 y desapareció tres días después. Tras ser notificados, sus padres realizaron la denuncia y, un mes después, el cadáver de Omar Carrasco fue hallado oculto en las instalaciones del regimiento.
+La historia oficial dice que su muerte se produjo como consecuencia de un hemotórax producto de una golpiza que le dieron dos conscriptos durante un "baile", el eufemismo de la jerga militar que alude al castigo físico.
+
+Una semana después de la aparición del cadáver, en los círculos políticos ya se hablaba de la derogación del Servicio Militar Obligatorio y tiempo después fue suspendido, mediante un decreto firmado por el entonces Presidente de la Nación Argentina, Carlos Saúl Menem el 31 de agosto de 1994 y la implementación de un sistema de voluntariado rentado.
 ![[como baila Carrasco.png]]

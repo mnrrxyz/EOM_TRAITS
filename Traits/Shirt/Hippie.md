@@ -1,1 +1,3 @@
+El viento de la ruta te acaricia la cara mientras la guitarra suena en la parte de atrás de la combi. No hay reloj, no hay preocupaciones, solo el camino y la promesa de nuevos paisajes. El buzo hippie es más que una prenda: es una declaración de principios, un manifiesto de libertad. De colores terrosos y tejidos que parecen cargados de historias, este abrigo ha sido testigo de fogones interminables, mates compartidos y charlas que parecen resolver el mundo. Lo llevás puesto y, de repente, todo es un poco más liviano.
+
 ![[buzo hippie.png]]

@@ -1,1 +1,3 @@
+El espíritu inquebrantable de una voz que marcó generaciones. Su presencia evoca un viaje por riffs poderosos, letras profundas y la esencia misma de la resistencia cultural. Un homenaje a la rebeldía, la identidad y la pasión por el metal más puro, además de un un homenaje a la vida, porque aunque hoy ya no este con nosotros físicamente, siempre va a estar vivo en la pureza y crudeza de sus letras.
+
 ![[Iorio.png]]

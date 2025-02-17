@@ -1,1 +1,10 @@
+Alla por el año 1987, en un pueblito de Rosario, venia al mundo un tal Lionel Andres Messi, un nene que ya desde chico se veía que tenia una pasión y un talento desmedido por el futbol, desde las divisiones inferiores de newells ya se podía ver que el pibe era un distinto, de esos que nacen bendecidos, con un talento que solo podía entenderse viéndolo jugar.
+
+No vamos a profundizar en la larga y ya conocida carrera de Leo, quien es el jugador con mas títulos y balones de oro en la historia del futbol.
+Lo que realmente hace grande a Messi es quien es su lado humano, una persona sencilla y sobre todo, bien Argentina, por mas que le toco vivir desde muy chico fuera del país y todas las criticas que le llovían del mismo, el nunca dejo de representar al país y sentirse parte, siempre priorizo el sentimiento incluso por encima de su bienestar, asi lo demostró cuando volvió a la selección después de su ultima derrota por copa america.
+
+El caso de Messi es el claro ejemplo de como una deidad en vida igualmente tiene que luchar por sus sueños, por mas talento que tengas la vida no es sencilla, pero si tenes un objetivo solo tenes que tener dos cosas para conseguirlo, fe y persistencia, asi fue que después de un camino plagado de sufrimiento y tristeza con la celeste y blanca, el mejor jugador del mundo gano dos copa america y una copa mundial.
+
+Cuando creas que las cosas no te salen y quieras bajar los brazos, no te olvides que dios decidió bendecirte con nacer en esta tierra, el único lugar del planeta que le mostro dos veces al mundo que los dioses existen, el futbol es el canal por el cual lo divino decide hablar en esta parte del globo, por eso no es casualidad que lo vivamos de la forma que lo hacemos.
+Corres con la ventaja de ser Argentino, si tenes un objetivo y estas seguro que es para vos, solo tenes que elegir creer e intentarlo las veces que sean necesarias hasta conseguirlo, igual que el 10 con su mayor deseo.
 ![[messi 1.png]]

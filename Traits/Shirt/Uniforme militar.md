@@ -1,1 +1,3 @@
+El eco de las botas resuena en el patio de armas, el sol se refleja en los botones dorados y el aire lleva consigo el peso de la tradición. El uniforme es un símbolo de disciplina, de esfuerzo y de valores que trascienden generaciones. Con cada paso firme, se forjan los cimientos de una vocación que exige sacrificio, honor y un compromiso inquebrantable con la patria. No es solo tela, es historia, es orgullo, es el primer peldaño en el camino de quienes eligen servir.
+
 ![[Uniforme_militar.png]]

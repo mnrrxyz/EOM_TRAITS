@@ -1,1 +1,2 @@
+Indispensable para trabajadores en zonas de riesgo, este chaleco de alta visibilidad garantiza que siempre seas visto, sin importar las condiciones de iluminación. Con material reflectante y múltiples bolsillos funcionales, es ideal para construcción, logística y tareas viales.
 ![[Security_vest.png]]

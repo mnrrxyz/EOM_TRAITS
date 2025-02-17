@@ -1,1 +1,2 @@
+Un pequeño escudo de devoción que acompaña a su portador en cada paso del camino. Brilla con la esperanza de quienes confían en su protección, llevando consigo oraciones susurradas y promesas inquebrantables.
 ![[Medallita.png]]

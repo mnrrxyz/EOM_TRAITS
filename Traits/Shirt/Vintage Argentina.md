@@ -1,1 +1,3 @@
+Refugio de nostalgias y testigo de epopeyas, esta campera encapsula la esencia de un fútbol de otro tiempo, donde la selección daba sus primeros pasos como una de las grandes potencias futboleras gracias a Menotti, quien le dio una identidad y una idea de juego representativa a su seleccionado . Con su diseño retro y detalles emblemáticos, es un tributo a los días dorados donde la celeste y blanca forjaba su nombre.
+
 ![[vintage afa jacket.png]]

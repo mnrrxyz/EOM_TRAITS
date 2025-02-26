@@ -1,1 +1,4 @@
+El matadero, diseñado por Francisco Salamone es una de las tantas joyas arquitectónicas que dejó este visionario del modernismo argentino en la década de 1930. Su imponente silueta, con líneas geométricas audaces y su estilo art déco, aún se alza desafiante en la llanura bonaerense, testigo de un pueblo que ya no existe. Villa Epecuén, antaño un paraíso turístico con aguas milagrosas debido a su lago hipersalino, cuyas aguas se comparaban con las del Mar Muerto por sus propiedades curativas.
+
+vio su destino sellado en 1985, cuando el lago desbordó y cubrió la ciudad entera tras intensas lluvias y la crecida del lago. El terraplén que protegía la villa cedió, provocando una inundación que la cubrió completamente. Durante más de 25 años, el agua ocultó sus calles y edificios hasta que, por la sequía, la ciudad emergió como un paisaje de ruinas salinas, convirtiéndose en un sitio de interés histórico y turístico.
 ![[Matadero.png]]

@@ -1,3 +1,5 @@
+La Línea A del Subte de Buenos Aires fue inaugurada el 1° de diciembre de 1913, convirtiéndose en la primera línea de subterráneos de América Latina y la tercera en el hemisferio sur. Originalmente operada con coches de madera de la compañía belga La Brugeoise, su recorrido inicial unía Plaza de Mayo con Plaza Miserere. Con el tiempo, la línea se expandió hacia el oeste, llegando a San Pedrito en 2013. Ese mismo año, los históricos vagones fueron reemplazados por unidades modernas para mejorar la seguridad y eficiencia del servicio. A pesar de los cambios, la Línea A sigue siendo un ícono del transporte porteño y un testimonio de la evolución de la ciudad.
+
 ![[subte.png]]
 
 

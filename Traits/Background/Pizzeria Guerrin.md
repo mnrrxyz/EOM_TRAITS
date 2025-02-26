@@ -1,3 +1,4 @@
+Un neón vibrante esperando en la entrada, una vidriera que promete manjares sobra la base de una masa especial. Pizzería Güerrín no es solo un punto de encuentro para los amantes de la pizza al molde, es una institución de Buenos Aires. Fundada en 1932, ha visto pasar generaciones de porteños que, entre charlas apuradas y mordidas llenas de mozzarella, han hecho de este lugar un verdadero templo de la pizza argentina y una parada obligatoria para propios y ajenos.
 ![[guerrin.png]]
 
 

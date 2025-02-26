@@ -1,1 +1,4 @@
+En _Argentum Online_, las meditaciones son una mecánica esencial para la regeneración de maná, lo que permite a los personajes mágicos recuperar su energía para lanzar conjuros. Esta función es clave para las clases como magos, druidas y clérigos, quienes dependen del maná para desempeñar su rol en el juego.
+
+En términos de juego, la meditación es una habilidad pasiva que permite recuperar MP de manera más eficiente, dependiendo de la clase, nivel y equipo del personaje, la velocidad de regeneración varía. Generalmente, al activar la meditación, el personaje entra en un estado inmóvil en el cual el maná se regenera a una velocidad superior a la normal.
 ![[Meditation.png]]

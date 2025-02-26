@@ -1,2 +1,2 @@
-
+THE INTERNET'S FIRST CULTURE COIN!🫵😹
 ![[Pit_viper_MOG.png]]

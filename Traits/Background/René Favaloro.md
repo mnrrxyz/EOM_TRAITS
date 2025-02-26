@@ -1,1 +1,3 @@
+Las manos que alguna vez moldearon el destino de la medicina cardiovascular, hoy sostienen el peso de una historia que trasciende el tiempo. René Favaloro, el hombre que llevó la cirugía de bypass coronario a la cúspide de la ciencia, no solo dejó una huella imborrable en la medicina, sino también un legado de ética, compromiso y lucha incansable por un sistema de salud más justo. Pero su final fue un eco desgarrador de la realidad argentina: incomprendido, acorralado por la indiferencia estatal y las deudas de su fundación, Favaloro decidió poner fin a su vida de una forma casi poética, con un disparo al órgano que le dedico su vida al estudio del mismo, así en el año 2000 Favaloro partido de este mundo con un disparo al corazon.
+
 ![[renefavaloro.png]]

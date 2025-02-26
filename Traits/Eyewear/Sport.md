@@ -1,2 +1,2 @@
-
+Gafas deportivas de alto rendimiento con montura ergonómica de material ligero y resistente. Lentes espejados con tecnología de protección UV400, diseñados para reducir el deslumbramiento y mejorar la visibilidad en exteriores.
 ![[Sport.png]]

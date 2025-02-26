@@ -1,1 +1,2 @@
+1998, la marginalidad creciente en la República Argentina lleva a un grupo de jovenes a ser rastreros (crimenes menores). Inauguró el "mundo grúa" del nuevo cine argentino y con OKUPAS, demostraron ser descripciones algo certeras de la realidad. PBF demostró el fantasma de la época en un país al borde del colapso.
 ![[pizzabirrafaso2.png]]

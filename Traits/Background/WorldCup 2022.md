@@ -1,1 +1,3 @@
+La historia se escribió con tinta de gloria, y el pueblo argentino, con el corazón latiendo al unísono, salió a las calles a rendir homenaje a sus héroes. Más de cinco millones de almas inundaron el Obelisco y sus alrededores, en una manifestación de alegría y locura desbordante que se convirtió en el festejo más multitudinario de la historia del país. Familias enteras, generaciones unidas en un solo grito, lágrimas de emoción y abrazos entre desconocidos, todos bajo el mismo cielo celeste y blanco. La tercera estrella brillaba en los ojos de cada argentino, reflejando el sacrificio, la pasión y la inquebrantable esperanza de un pueblo que nunca dejó de soñar.
+
 ![[WorldCup2022.png]]

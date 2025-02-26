@@ -1,1 +1,4 @@
+**Sacoa** es una empresa argentina de entretenimiento especializada en salas de videojuegos y máquinas recreativas. Fundada en la ciudad de Mar del Plata en 1957, alcanzó su auge en los años 80 y 90, expandiéndose a lo largo de todo el país y convirtiéndose en un referente en el rubro. Su sistema de fichas y luego tarjetas recargables marcó una época en la industria del entretenimiento en Argentina. Con la llegada de las consolas domésticas y el auge de los videojuegos online, muchas de sus sucursales cerraron, aunque algunas aún sobreviven, manteniendo la esencia de un tiempo donde los arcades eran el punto de encuentro de miles de jugadores.
+
+
 ![[sacoa.png]]

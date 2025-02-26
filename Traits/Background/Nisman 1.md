@@ -1,1 +1,2 @@
+El caso de Alberto Nisman es uno de los episodios más polémicos y enigmáticos de la historia reciente de Argentina. El fiscal federal fue hallado muerto en su departamento de Puerto Madero el 18 de enero de 2015, en circunstancias que generaron una tormenta política y judicial que aún persiste.
 ![[Nisman_1.jpg]]

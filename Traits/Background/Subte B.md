@@ -1,7 +1,2 @@
-
+El llamado _"glory hole de la Línea B"_ es un mito urbano que circuló en foros y conversaciones informales sobre la infraestructura del subte porteño. Se cuenta que en ciertos baños de estaciones como Carlos Pellegrini y Federico Lacroze existían perforaciones en las divisiones de los cubículos, usadas para encuentros anónimos y fugaces entre gente muy mal de la cabeza. La historia se popularizó principalmente en la cultura digital y en relatos de usuarios, convirtiéndose en parte del folclore urbano del transporte público de Buenos Aires.
 ![[subteb.png]]
-
-VIDEO D EOM CON ESTOS SUBTES??
-
-
-BEEF ENTRE LINEAS DE SUBTE?

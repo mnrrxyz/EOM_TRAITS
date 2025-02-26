@@ -1,1 +1,3 @@
+El diario, ese testigo imperecedero del tiempo, ha sido durante siglos el confidente de las masas, el eco de las voces que no podían ser acalladas. Cada mañana, con el aroma inconfundible del papel recién impreso, llegaba a manos de trabajadores, soñadores y pensadores, desplegando ante ellos el pulso del mundo en páginas que crujían al ser pasadas con ansias de verdad. Su presencia en cafés, trenes y mesas familiares no era solo un reflejo de la actualidad, sino también un ritual, un puente entre el ayer y el hoy, entre la información y la emoción. En sus hojas amarillentas, la historia encontró refugio.
+
 ![[Madereros.png]]

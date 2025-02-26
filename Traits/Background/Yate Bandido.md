@@ -1,2 +1,4 @@
+En septiembre de 2023, el político argentino Martín Insaurralde, en ese momento Jefe de Gabinete de la provincia de Buenos Aires, se vio envuelto en una fuerte polémica tras la filtración de imágenes de sus vacaciones en Marbella, España, junto a la modelo Sofía Clérici. Las fotografías y videos mostraban al funcionario disfrutando de un exclusivo yate, mientras la modelo exhibía costosos regalos, incluidos relojes y carteras de marcas de lujo.
 
+La revelación generó un repudio generalizado, tanto en la opinión pública como en el ámbito político. En un país atravesado por una profunda crisis económica, el derroche y ostentación de riqueza por parte de un funcionario público fueron interpretados como un acto de corrupción e impunidad. La presión social y política llevó a que Insaurralde renunciara a su cargo, aunque las investigaciones sobre su patrimonio y posible enriquecimiento ilícito continuaron avanzando.
 ![[Yate_Bandido.png]]

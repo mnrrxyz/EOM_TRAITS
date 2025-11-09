@@ -8,6 +8,4 @@ No' cortamo' una jarra, pegamo' una rocha
 La que no te contesta acá se entrega sola  
 Se pone loca cuando
 
-SHOUTOUT PARA NOBA
-
 ![[Turro.png]]meme noba con estos

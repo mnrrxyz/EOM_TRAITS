@@ -12,4 +12,3 @@ En la memoria colectiva, el Italpark permanece como un símbolo de los contraste
 
 ![[Italpark.png]]
 
-BEEF CON PARQUE D LA COSTA?

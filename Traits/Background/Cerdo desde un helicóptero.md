@@ -4,8 +4,4 @@ El chancho, que por fortuna estaba muerto cae en la piscina ante la mirada atón
 
 ![[helicoptero chancho.png]]
 
-
-https://www.youtube.com/watch?v=Ahcrc0Z7YeE
-
-
-LORE EMILIO?
+[video](https://www.youtube.com/watch?v=Ahcrc0Z7YeE)

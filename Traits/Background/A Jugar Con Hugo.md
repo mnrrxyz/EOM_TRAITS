@@ -3,12 +3,10 @@
 La cosa era simple: salvar a Hugo y ganar premios, pero entre líneas de teléfono saturadas y comandos que llegaban tarde, la risa estaba asegurada. Este show era un carnaval interactivo que definió una era y dejó una marca en la memoria colectiva. ¡Pura nostalgia digital!
 
 ![[ajugarconhugo.png]]
-
-
-Info:
-https://es.wikipedia.org/wiki/A_jugar_con_Hugo
-Videos:
-https://youtu.be/IBXL-3fNN3s?si=oxB8sTR6T3flRyYj
-https://youtu.be/Jlj9ducAhTY?si=JwfmLhv_ovCxKcsn
-Imgs
 ![[Pasted image 20240728173114.png]]![[Pasted image 20240728173136.png]]
+
+[Info](https://es.wikipedia.org/wiki/A_jugar_con_Hugo)
+
+Videos:
+[1](https://youtu.be/IBXL-3fNN3s?si=oxB8sTR6T3flRyYj)
+[2](https://youtu.be/Jlj9ducAhTY?si=JwfmLhv_ovCxKcsn)

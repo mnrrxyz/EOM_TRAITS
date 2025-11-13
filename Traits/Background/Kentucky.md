@@ -5,11 +5,3 @@ Con el tiempo, Kentucky se expandió, convirtiéndose en una cadena con **múlti
 La pizzería mantiene el espíritu de la cultura porteña: locales con **barra de mármol, vermut y fainá**, siendo un punto de encuentro para generaciones de clientes que buscan una auténtica experiencia de pizza argentina.
 
 ![[pizzeria_kentucky.jpg]]
-
-
-
-LORE EMILIO??
-
-BEEF CON PIZZERIAS?
-
-KENTUCKY VS GUERRIN VS UGIS

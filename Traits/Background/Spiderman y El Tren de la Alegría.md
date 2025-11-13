@@ -3,6 +3,3 @@ El **Tren de la Alegría** es una de esas experiencias mágicas que forman parte
 El Tren de la Alegría sigue su recorrido, mientras Spiderman, el Hombre Araña de la costa argentina, deja su huella en una noche más de verano. Una postal inmortal de la infancia de muchos, un ícono de las vacaciones en la playa.
 
 ![[spiderman background.png]]
-
-
-LORE EMILIO?

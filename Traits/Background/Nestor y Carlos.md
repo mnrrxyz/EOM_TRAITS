@@ -4,6 +4,3 @@ En las elecciones presidenciales de 2003, Menem y Kirchner fueron rivales direct
 
 Desde entonces, el kirchnerismo hizo de la ruptura con el menemismo uno de sus principales pilares discursivos. Kirchner impulsó la estatización de empresas, la revisión de las privatizaciones y el rechazo a las políticas de ajuste estructural del FMI, posicionándose como el antagonista político del modelo que Menem había instaurado en los 90.
 ![[Nestor_y_Carlos.png]]
-
-
-LORE EMILIO?

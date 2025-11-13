@@ -11,11 +11,3 @@ El partido con los ingleses es el mas significativo: Vimos como un Dios es capaz
 
 
 ![[Argentina_86.png]]
-
-
-
-
-
-Video levantando la Copa
-
-Fotos del Diego pero version emilio con la copa

@@ -6,10 +6,4 @@ Moria, en cambio, es la reina sin filtro, una Atenea de las tablas y los escánd
 Juntas, son la dualidad perfecta: la luz y la sombra del espectáculo argentino, dos caras de una misma moneda que, entre risas y polémicas, han tejido la historia pop de un país que nunca deja de mirarlas
 
 
-
-
-
 ![[susanamoria.png]]
-
-VIDEOS
-

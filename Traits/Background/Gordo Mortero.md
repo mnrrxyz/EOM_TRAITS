@@ -3,10 +3,4 @@ Sebastián Romero, alias el "Gordo Mortero", se convirtió en una leyenda urbana
 ![[gordomortero.png]]
 
 
-
-
-
-https://www.youtube.com/watch?v=j9jUbEk98vQ
-
-
-AGREGAR EDITS DE EMILIO
+[Video](https://www.youtube.com/watch?v=j9jUbEk98vQ)

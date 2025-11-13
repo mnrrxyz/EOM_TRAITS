@@ -7,8 +7,3 @@ Así, el caso de Carlitos Menem Jr. se transforma en una especie de mito urbano 
 
 
 ![[Accidente_Junior.png]]
-
-
-Info:
-
-youtube?

@@ -2,7 +2,3 @@ Una mañana que debía ser como cualquier otra se convirtió en una de las jorna
 
 
 ![[once.png]]
-
-
-
-LORE EMILIO KIRNERISMO

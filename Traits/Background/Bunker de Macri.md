@@ -6,5 +6,4 @@ Imposible de explicar, tenias que estar ahi.
 
 
 
-Poxyclub - Fiesta en el bunker de macri
-(https://www.youtube.com/watch?v=XKL6BtHwXC8)
+[Poxyclub - Fiesta en el bunker de macri](https://www.youtube.com/watch?v=XKL6BtHwXC8)

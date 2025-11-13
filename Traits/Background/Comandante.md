@@ -2,4 +2,4 @@ PIZZA CON EL COMANDANTE
 QUE NOCHES QUE PEGABAMOS
 
 
-![[EOM_TRAITS/Imgs/Background/comandante.png]]
+![[comandante.png]]

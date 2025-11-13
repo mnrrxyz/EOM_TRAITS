@@ -7,8 +7,3 @@ Pero cuando la final llegó, y Kempes metió ese gol que hizo vibrar al estadio,
 
 
 ![[argcampeon78.png]]
-
-
-LORE EMILIO?
-
-HAY QUE METERSE CON LO TURBIO

@@ -5,8 +5,3 @@ Menem, con su camiseta blanca impoluta, jeans celestes y un cinturón que destac
 En el aire flota un aroma a poder y gasolina, una combinación embriagadora que define a la perfección esa época de convertibilidad, donde el dólar y el peso bailaban al mismo ritmo y Argentina parecía el escenario de un videoclip de MTV. Con su sonrisa carismática y esa aura de invencibilidad, Menem no solo está al lado de un auto, está en el asiento del conductor de una nación en pleno cambio de marcha, acelerando hacia el futuro con la esperanza y el riesgo pisando el acelerador a fondo.
 
 ![[menemferrari.png]]
-
-
-EDIT EMILIO MENEMISMO
-
-LORE EMILIO?

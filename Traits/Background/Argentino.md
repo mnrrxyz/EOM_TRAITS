@@ -4,6 +4,3 @@ Algunos llevan su bandera en el corazón, otros la convierten en su propia piel.
 
 
 ![[argentino 1.png]]
-
-
-VIDEOS EMILIO ARGENTINIDAD AL PALO

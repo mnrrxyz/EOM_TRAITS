@@ -3,14 +3,3 @@
 
 
 ![[quinto_escalon.jpg]]
-
-
-Info
-
-Youtube
-video del ysy rapeando 
-
-agregar mejores batallas
-
-
-ALGUN EDIT EMILIO RAPERO??

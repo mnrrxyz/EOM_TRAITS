@@ -2,7 +2,4 @@
 
 ![[lallamaquellama.png]]
 
-
-Info
-
-https://www.youtube.com/watch?v=Tm-F7esbQDo
+[Video](https://www.youtube.com/watch?v=Tm-F7esbQDo)

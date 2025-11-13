@@ -3,9 +3,3 @@ Los piquetes en Argentina son como el glitch del sistema, una especie de cortoci
 
 
 ![[piquetes.png]]
-
-
-Edit con piquetes??
-Bizarro con muchos emilios ,caos argentinaaaaaaaaa
-
-

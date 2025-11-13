@@ -3,8 +3,3 @@ Alejandro Wiebe, más conocido como Marley, es un conductor, productor y present
 Además de ser conocido en la tele, Marley es conocido en el mundo de la noche, se lo solía ver en los vips de los boliches bailando, al igual que su mandíbula, de lentes y en un estado irreconocible, invitaba a jovenes a pasar un buen rato, lo que no ayudaba en cuanto a las sospechas de pedofilia que se posan sobre el.
 
 ![[marleyduro.png]]
-
-
-LORE EMILIO??
-
-NATACHA....

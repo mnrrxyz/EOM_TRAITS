@@ -1,6 +1,3 @@
 El calor del asfalto reflejaba el ardor de un país en llamas. Gente corriendo, brazos cargados con lo que podían llevar, niños y ancianos con la mirada perdida entre los estantes vacíos de supermercados saqueados. No era delincuencia, no era vandalismo: era hambre, era desesperación. La Argentina del 2001 había llegado a un punto de quiebre. Las familias, empujadas al límite por una economía en ruinas, irrumpían en comercios no con codicia, sino con la necesidad de llenar una mesa vacía. En las calles, los cacerolazos marcaban el pulso de una sociedad que clamaba justicia, mientras el eco de la represión y las balas de goma anunciaban que el gobierno estaba perdiendo el control. Era el grito de quienes no tenían más que la fuerza de su propia miseria.
 
 ![[saqueos_2001.jpg]]
-
-
-LORE EMILIO 2001

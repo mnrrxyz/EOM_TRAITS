@@ -4,15 +4,4 @@ Este lugar, que hoy es un museo, es conocido por su arquitectura escalofriante y
 
 La cárcel se cerró en 1947 debido a las duras condiciones de vida y al alto costo de su mantenimiento, pero su leyenda persiste.
 
-]]![[carcelushuaia.png]]
-
-
-Info ?
-
-Videos
-
-Presos Famosos... 
-
-
-
-
+![[carcelushuaia.png]]

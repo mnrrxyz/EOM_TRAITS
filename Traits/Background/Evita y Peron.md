@@ -3,9 +3,4 @@ La relación de Perón y Evita fue un torbellino de poder, amor y transformació
 En el caótico escenario de la política, Perón y Evita demostraron que el amor y el poder pueden ser fuerzas complementarias, capaces de crear un impacto que perdura mucho más allá de sus vidas. Su historia es un recordatorio de que, en el teatro de la política, a veces los actores se convierten en leyendas.
 
 
-
-
 ![[Evita_y_Peron.png]]
-
-Lore de Emilio con esto??
-Que enfoque le vamos a dar el peronismo

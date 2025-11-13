@@ -6,5 +6,4 @@ Es un momento de televisión al rojo vivo, donde el drama, la comedia y la provo
 
 ![[Sokok.png]]
 
-### Fernando Peña apuntándole a Mirtha Legrand
-](https://www.youtube.com/watch?v=PBHDI5VH6mI)
+[Fernando Peña apuntandole a Mirtha Legrand](https://www.youtube.com/watch?v=PBHDI5VH6mI)

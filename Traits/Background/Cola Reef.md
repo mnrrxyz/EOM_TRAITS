@@ -3,17 +3,3 @@ Los años 90 en Argentina eran un verdadero espectáculo de veranos desenfrenado
 Era la cúspide del culto al cuerpo, donde la objetivación y la superficialidad se celebraban a plena luz del sol. Los medios de comunicación no podían resistir el atractivo del evento, llenando sus páginas de fotos y artículos que reflejaban el espíritu hedonista de la época. Aunque hoy se ve como un ejemplo del exceso de los 90, la **Cola Reef** sigue siendo un recordatorio de un tiempo donde el verano se vivía con total desenfreno y un toque de descaro.
 
 ![[Cola_Reef.png]]
-
-
-
-
-
-
-
-
-INFO
-
-videos??
-
-Lore emilio?
-

@@ -1,7 +1,3 @@
 El episodio _La Brigada B_ es el décimo de la segunda temporada de _Los Simuladores_, emitido originalmente en 2003. En esta historia, la organización internacional detrás del grupo argentino decide poner a prueba su eficiencia secuestrando a Santos y Medina para evaluar su desempeño bajo presión. Paralelamente, un grupo de falsos "Simuladores" opera de manera poco ética, dañando la reputación del equipo. La trama se desenvuelve con un doble conflicto: la necesidad de desmantelar la Brigada B y la urgencia de escapar de una trampa cuidadosamente planeada. Este episodio se destaca por su tensión narrativa, su cinematografía detallada y la evolución de la mitología de la serie, consolidando la idea de que Los Simuladores forman parte de una red global de estrategas.
 
 ![[simuladoresfbi.png]]
-
-LORE EMILIO SIMLADORES??
-
-NACIMIENTO DE DIVISION PSYOP?

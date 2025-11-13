@@ -4,10 +4,3 @@ La promesa de Menem fue recibida con escepticismo y rápidamente se convirtió e
 
 
 ![[Vuelos_Espaciales.png]]
-
-Info
-
-https://www.youtube.com/watch?v=kTybwGNk5Ew
-
-
-LORE EMILIO MENEMISTA

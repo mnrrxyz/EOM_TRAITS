@@ -1,7 +1,3 @@
 El caso IBM - Banco Nación ocurrió en la década del 90, cuando se descubrió que la filial argentina de IBM había pagado sobornos a funcionarios del Banco de la Nación Argentina para obtener un contrato de informatización valuado en 250 millones de dólares. Se estima que aproximadamente 21 millones fueron utilizados para el pago de coimas. El escándalo salió a la luz en 1994 y derivó en una investigación judicial que involucró a empresarios, ejecutivos y funcionarios públicos. Aunque el caso generó un gran impacto mediático y político, las condenas fueron limitadas y muchos de los involucrados evitaron sanciones significativas. Este caso es recordado como uno de los mayores episodios de corrupción empresarial en Argentina.
 
 ![[IBM_Banco_Nacion.png]]
-
-
-
-LORE EMILIO

@@ -4,6 +4,3 @@ Locuras Rock es un paraíso para los coleccionistas y amantes de la música. Aqu
 
 
 ![[locurasrock.png]]
-
-
-LORE EMILIO?

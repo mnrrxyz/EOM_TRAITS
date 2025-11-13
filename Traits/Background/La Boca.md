@@ -1,5 +1,2 @@
 Un rincón donde el alma porteña se viste de colores y el tango resuena en los adoquines. Cada fachada es un retazo de historia, una pincelada de identidad que grita en tonos vibrantes la esencia de un barrio que supo albergar a quienes venían a la patria en busca de oportunidades. La Boca es un cuadro vivo donde los artistas dibujan sueños y los caminantes encuentran poesía en cada esquina.
 ![[laboca.jpg]]
-
-
-DEBERIAMOS ARMAR UN EDIT BOSTERO EMILIO SQUIZO 

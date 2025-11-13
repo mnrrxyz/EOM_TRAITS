@@ -3,6 +3,3 @@
 La Salada es una experiencia sensorial donde lo legal e ilegal se entrelazan en un baile constante de mercancías y negociaciones.
 
 ![[La_Salada.png]]
-
-
-LORE EMILIO?

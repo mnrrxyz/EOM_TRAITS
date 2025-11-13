@@ -1,9 +1,3 @@
 Las calles de Buenos Aires siempre han reflejado los vicios de su sociedad, como un palimpsesto de historias grabadas en el cemento. Entre los carteles de alquiler, las pegatinas de bandas de rock y los afiches políticos, los papelitos con números de teléfono y promesas de encuentros inundaban la ciudad, se convirtieron en un símbolo inconfundible de esos tiempos. Con una caligrafía casi clandestina y números arrancados en los bordes, estos volantes eran un eco de la soledad urbana, un guiño tácito a los misterios que ocultaba la ciudad, disponible para aquel curioso que tenga el coraje de adentrarse e una realidad que aunque cruda y cruel, no dejaba de ser real.
 
 ![[Flyers_Prostitución_Buenos_Aires.jpg]]
-
-
-LORE EMILIO???
-NATACHA??
-
-QUE VAMOS A DECIR D ESTO

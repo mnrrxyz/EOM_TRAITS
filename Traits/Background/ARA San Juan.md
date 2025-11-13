@@ -10,12 +10,11 @@ Tras un año de búsqueda, una empresa privada encontró los restos del ARA San 
 ![[ARA_San_Juan.png]]
 
 info:
-https://es.wikipedia.org/wiki/ARA_San_Juan_%28S-42%29
-https://revistas.proeditio.com/jonnpr/article/view/2740/html2740
-https://www.latercera.com/culto/2024/03/13/ara-san-juan-la-dramatica-historia-del-submarino-desaparecido-en-argentina-que-llega-al-streaming/
-https://es.wikipedia.org/wiki/Hundimiento_del_ARA_San_Juan_%28S-42%29
-https://www.bbc.com/mundo/noticias-america-latina-46251005
+[wikipedia](https://es.wikipedia.org/wiki/ARA_San_Juan_%28S-42%29)
+[revistas proeditio](https://revistas.proeditio.com/jonnpr/article/view/2740/html2740)
+[la tercera](https://www.latercera.com/culto/2024/03/13/ara-san-juan-la-dramatica-historia-del-submarino-desaparecido-en-argentina-que-llega-al-streaming/)
+[bbc](https://www.bbc.com/mundo/noticias-america-latina-46251005)
 vids:
-https://www.youtube.com/watch?v=M_QotkUTT5M
-https://youtu.be/uomoC8dO5FI?si=DAKIaRcT4MgDCQ4P
-https://youtu.be/PilWU42XG7g?si=eWsvZh9w5HF9owCY
+[1](https://www.youtube.com/watch?v=M_QotkUTT5M)
+[2](https://youtu.be/uomoC8dO5FI?si=DAKIaRcT4MgDCQ4P)
+[3](https://youtu.be/PilWU42XG7g?si=eWsvZh9w5HF9owCY)

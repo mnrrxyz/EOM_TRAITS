@@ -5,6 +5,4 @@ Este gol de Maradona, seguido por su asombroso slalom para marcar el "Gol del Si
 
 ![[la_mano_de_dios.jpg]]
 
-
-
-https://www.youtube.com/shorts/vNbiYtvkpSw
+[maradooooo](https://www.youtube.com/shorts/vNbiYtvkpSw)

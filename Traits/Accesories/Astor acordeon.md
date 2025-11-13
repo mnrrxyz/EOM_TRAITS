@@ -5,4 +5,4 @@ Un instrumento que acompaño el desarrollo de la identidad y la cultura en todo 
 
 Y si hablamos de bandoneón no podemos dejar de mencionar a Astor Piazzolla quien de la mano de Carlos Gardel comenzó a tocar tango con su bandoneón, sus obras revolucionaron el tango tradicional, en un nuevo estilo denominado tango de vanguardia o nuevo tango, menos bailable y pensado para la atenta escucha del mismo. Entre las innovaciones que emprendió, su tango nuevo incluyó instrumentos poco usuales para el género, como percusión, guitarra eléctrica y vibráfono, integró elementos de la música académica y jazz tales como el contrapunto, fugas e improvisaciones jazzísticas y en el siglo XXI se lo considera como uno de los músicos más importantes de la historia del país.
 
-![[Astor.png]
+![[Astor.png]]

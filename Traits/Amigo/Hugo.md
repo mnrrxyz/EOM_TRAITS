@@ -8,4 +8,4 @@ Lo que hacia a Hugo tan especial, era la novedad tecnologica que representaba, y
 
 Debido a su exito se exportaron los juegos de la tv a un juego de Hugo para la PC, en el cual tambien incluia nuevos juegos.
 ![[drhK8DbZH_1300x655__1.jpg]]
-![[EOM_TRAITS/Imgs/Amigo/Hugo.png]]
+![[Hugo.png]]

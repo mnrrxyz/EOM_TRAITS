@@ -7,4 +7,4 @@ El caso de Messi es el claro ejemplo de como una deidad en vida igualmente tiene
 
 Cuando creas que las cosas no te salen y quieras bajar los brazos, no te olvides que dios decidió bendecirte con nacer en esta tierra, el único lugar del planeta que le mostro dos veces al mundo que los dioses existen, el futbol es el canal por el cual lo divino decide hablar en esta parte del globo, por eso no es casualidad que lo vivamos de la forma que lo hacemos.
 Corres con la ventaja de ser Argentino, si tenes un objetivo y estas seguro que es para vos, solo tenes que elegir creer e intentarlo las veces que sean necesarias hasta conseguirlo, igual que el 10 con su mayor deseo.
-![[EOM_TRAITS/Imgs/Amigo/Messi.png]]
+![[Messi.png]]

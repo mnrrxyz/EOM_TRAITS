@@ -4,4 +4,4 @@ Su carrera solista, iniciada en los '80, consolidó su estatus de ícono con dis
 
 A pesar de sus excesos y altibajos personales, su legado musical sigue vigente, inspirando a músicos y fanáticos de todo el mundo. Charly García es más que un artista: es un símbolo de rebeldía, genialidad y transformación constante.
 
-![[EOM_TRAITS/Imgs/Shirt/Charly.png]]
+![[Charly.png]]

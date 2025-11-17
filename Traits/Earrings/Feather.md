@@ -1,1 +1,1 @@
-![[arito pluma.jpg]]
+![[arito pluma.png]]

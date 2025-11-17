@@ -5,4 +5,4 @@ En 1987 asume Hugo Antonio Moyano la conducción del Sindicato, y desde entonces
 
 Gracias a esto Moyano fue acumulando poder y se convirtió en una de las personas mas importantes del país, teniendo roles también en el ambiente deportivo, con su club camioneros y siendo presidente del Club Independientes.
 
-![[EOM_TRAITS/Traits/Shirt/camioneros.png]]
+![[camioneros.png]]

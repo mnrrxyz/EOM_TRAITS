@@ -1,1 +1,1 @@
-![[arito mate.jpg]]
+![[arito mate.png]]

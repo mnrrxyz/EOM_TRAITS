@@ -9,8 +9,6 @@ En dicha tanda, el dibu ataja 3 penales al conjunto colombiano utilizando tecnic
 El dibu se cogio el cerebro de los colombianos en tv publica, que locura gato.
 
 
+[Video](https://www.youtube.com/watch?v=uHwXXSJGUQA)
+
 ![[Mira que te como.png]]
-
-
-
-https://www.youtube.com/watch?v=uHwXXSJGUQA

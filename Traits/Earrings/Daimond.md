@@ -1,1 +1,1 @@
-![[arito daimond.jpg]]
+![[arito daimond.png]]
